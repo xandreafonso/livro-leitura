@@ -1,0 +1,44 @@
+# The book's title. Will be used everywhere!
+title: "Leitura Funcional"
+
+# The book's language.
+language: pt
+
+# Your book copyright info.
+# Here's some examples:
+#
+#   Copyright 2018 by John Doe.
+#   Copyright 2018 by John Doe. This work is licensed under MIT License.
+#   This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+#   This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+#   This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+#
+copyright: "Copyright (C) 2018 Alexandre Afonso."
+
+# Who's publishing this book.
+publisher: "Alexandre Afonso"
+
+# When this book was published.
+published_at: "2018-07-15"
+
+# Some book description.
+subject: "Este livro irá ajudar você a ler mais rápido e comprender melhor."
+
+# Some keywords that identify this book.
+keywords: "leitura dinamica, aprendizagem, memorização, técnicas"
+
+# Some unique identification. Works great with your domain
+# like `http://yourbook.example.com`.
+uid: "d1e939f4769d9d288822241f4107c4da"
+
+# Your book identification like ISBN or ISSN.
+identifier:
+  id: "http://alexandreafonso.com.br/livro-leitura"
+  type: "http://alexandreafonso.com.br/livro-leitura" # can be ISBN, ISSN or URL
+
+# This book authors.
+authors:
+  - "Alexandre Afonso"
+
+# Syntax highlight theme. Can be any of supported by Rouge.
+theme: github
