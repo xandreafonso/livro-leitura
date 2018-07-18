@@ -25,4 +25,4 @@ Então tome uma decisão sábia e aprenda com ninguém menos que o Campeão Bras
 
 Esta oferta é por tempo limitado ou até acabarem os livros em estoque. 
 
-[Clique aqui](https://go.hotmart.com/G3313006A?src=ebookleitura-lk) e Acesse Imediatamente [Método Renato Alves](https://go.hotmart.com/G3313006A?src=ebookleitura-lk) - 18 anos de Excelência em Memorização.
+[Clique aqui](http://alexandreafonso.com.br/af/curso-estudo-e-memorizacao?src=ebookleitura-lk1) e Acesse Imediatamente [Método Renato Alves](http://alexandreafonso.com.br/af/curso-estudo-e-memorizacao?src=ebookleitura-lk2) - 18 anos de Excelência em Memorização.
