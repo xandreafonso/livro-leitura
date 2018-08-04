@@ -1,6 +1,6 @@
 ### O que é Leitura Dinâmica?
 
-Leitura dinâmica é a utilização de técnicas de leitura que irão depender do material lido e das intenções do leitor para com esse material. 
+Leitura dinâmica (ou leitura rápida) é a utilização de técnicas de leitura que levam em consideração o nível do texto lido e as intenções do leitor para com esse texto.
 
 O dinamismo que ela emprega ajuda a criar uma estratégia de leitura para que se tire o máximo de conhecimento dentro da janela de tempo que se possui.
 
