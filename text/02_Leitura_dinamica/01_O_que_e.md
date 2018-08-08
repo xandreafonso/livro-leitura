@@ -4,10 +4,6 @@ Leitura dinâmica (ou leitura rápida) é a utilização de técnicas de leitura
 
 O dinamismo que ela emprega ajuda a criar uma estratégia de leitura para que se tire o máximo de conhecimento dentro da janela de tempo que se possui.
 
-Essas técnicas são um ponto importante em uma leitura funcional efetiva, mas, é importante deixar claro que só a leitura dinâmica não basta! 
-
-É preciso cuidar das áreas que tangem uma boa **compreensão**. Inclusive, falaremos sobre isso aqui no livro ainda.
-
 O interesse do homem pela arte da leitura é bem antigo, há muito tempo se estuda sobre as melhores formas de se ler. Falando sobre leitura dinâmica, especificamente, os primeiros cursos começaram a aparecer no início do século XX.
 
 Uma coisa curiosa é que as técnicas ensinadas nesses primeiros cursos tinham como origem um aparelho usado na força aérea norte americana chamado taquitoscópio.
