@@ -1,4 +1,4 @@
-## Livro Leitura Funcional
+## Livro Leitura Fluente
 
 Esse é um livro sobre como você pode ler mais rápido e compreender melhor.
 
