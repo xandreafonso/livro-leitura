@@ -1,5 +1,5 @@
 # The book's title. Will be used everywhere!
-title: "Leitura Fluente"
+title: "Como Ler Mais Rápido e Compreender Melhor"
 
 # The book's language.
 language: pt
@@ -33,8 +33,8 @@ uid: "d1e939f4769d9d288822241f4107c4da"
 
 # Your book identification like ISBN or ISSN.
 identifier:
-  id: "http://alexandreafonso.com.br/livro-leitura"
-  type: "http://alexandreafonso.com.br/livro-leitura" # can be ISBN, ISSN or URL
+  id: "http://alexandreafonso.com.br/como-ler-mais-rapido-e-compreender-mais"
+  type: "http://alexandreafonso.com.br/como-ler-mais-rapido-e-compreender-mais" # can be ISBN, ISSN or URL
 
 # This book authors.
 authors:
