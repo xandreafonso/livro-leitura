@@ -1,2 +1,0 @@
-### Prática Deliberada
-

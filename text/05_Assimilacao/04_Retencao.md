@@ -6,7 +6,8 @@ Essas duas coisas são a base para um bom grau de retenção, mas existem ainda 
 
 Vamos a alguns deles:
 
-* Encontre uma ordem;
+* [ESCREVER SOBRE: organizar (categoriar e ordenar)]
+* Encontre uma ordem; 
 * Classifique a informação;
 * Tome notas;
 * Utilize repetição espaçada;

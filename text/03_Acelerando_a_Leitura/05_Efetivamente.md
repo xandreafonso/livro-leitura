@@ -4,7 +4,7 @@ Quando aprendemos a aumentar nosso campo de visão e descobrimos como a visão p
 
 Na prática, ao invés de procurar agrupar, por exemplo, de 3 em 3 palavras você divide a linha em partes iguais sem se preocupar com a quantidade de palavras que estará em cada parte.
 
-A tendência em agrupar palavras acontece porque não é óbvio pensar que fixar os olhos em espaços em branco pode ajudar muito.
+A tendência em agrupar palavras acontece porque não é óbvio pensar que, fixar os olhos em espaços em branco, pode ajudar muito.
 
 Vou explicar.
 
@@ -16,7 +16,7 @@ Percebeu algo de diferente no parágrafo acima?
 
 Repare que as letras mais importantes para o reconhecimento de uma palavra são a primeira e a última.
 
-Sendo assim, fixar o olhar no espaços entre as palavras pode ser bem vantajoso também, pois o nosso olhar vai pegar a última letra da palavra anterior e a primeira da posterior, com total nitidez e o restante de cada palavra conseguirmos captar com relativa facilidade usando a visão periférica.
+Sendo assim, fixar o olhar nos espaços entre as palavras pode ser bem vantajoso também, pois o nosso olhar vai pegar com total nitidez a última letra da palavra anterior e a primeira da posterior, e o restante de cada palavra conseguirmos captar com relativa facilidade usando a visão periférica.
 
 (Você pode testar agora. Fixe seu olhar somente nos espaços entre as palavras.)
 
