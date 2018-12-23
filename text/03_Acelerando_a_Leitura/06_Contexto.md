@@ -16,8 +16,6 @@ Pensando nisso, é interessante ler a primeira frase com mais calma, raciocinar 
 
 Sendo assim, a partir da segunda frase, podemos ler de forma mais acelerada e ainda assim conseguir compreender bem.
 
-Nas primeiras vezes em que for aplicar essa técnica pode ficar na dúvida sobre qual a proporção de tempo vai investir para pegar o contexto do parágrafo na primeira frase e quanto poderá acelerar na continuação do parágrafo.
+Veja que para acelerar é importante ter entendido bem o primeiro parágrafo, pois senão as coisas poderão ficar muito confusas. Busque passar o mais rápido possível pela primeira frase, mas use uma velocidade que vai te permitir entendê-lo bem.
 
-Mas isso vai ser guiado pelo seu conhecimento prévio do tópico que está sendo lido e também do quão bem você precisa compreender o livro.
-
-O que eu sugiro é a **prática deliberada**, ou seja, comece do seu jeito, no seu tempo. Se sentir que está confortável, aumente o ritmo.
+Uma desvantagem dessa técnica é que nem sempre a primeira frase vai conseguir te dar um bom contexto a ponto de te permitir correr ainda mais rápido pelo restante do parágrafo. Isso pode acontecer porque o autor escreveu a primeira frase de modo que, realmente, ela não contextualiza o parágrafo e, por vezes, vai acontecer porque seu conhecimento prévio não será o suficiente para pegar a ideia da frase. Quando isso acontecer o jeito e moderar a velocidade e ler o restante do parágrafo com um pouco mais de calma.
