@@ -1,14 +1,18 @@
-### Mitos da leitura rápida
+### Mitos e Crenças Erradas
 
-Durante esses anos de estudo sobre técnicas de leitura, concentração e memorização, constatei alguns pensamentos que podem nos atrapalhar a progredir ou nem mesmo considerar a leitura como uma habilidade que pode ser desenvolvida.
+Durante esses anos de estudo sobre técnicas de leitura, concentração e memorização, constatei alguns pensamentos (meus e de outras pessoas) que podem nos atrapalhar a progredir ou nem mesmo considerar a leitura como uma habilidade que pode ser desenvolvida.
 
-São pontos que algumas pessoas tomam como verdades, mas **não passam de mitos**. Os mais comuns são:
+São pontos que algumas pessoas tomam como verdades, mas **não passam de mitos**. 
+
+Vamos tratar aqui os mais importantes. São eles:
 
 * Lendo mais rápido compreende-se menos;
 * Preciso ler um livro de capa a capa;
 * Posso ler todos os materiais da mesma forma;
 * Leitura rápida tira o prazer de ler;
 * A velocidade máxima de leitura é aquela desenvolvida na escola.
+
+#### Lendo mais rápido compreende-se menos
 
 Esse nosso primeiro ponto é até contra-intuitivo. É sobre a afirmação de que **lendo mais rápido compreende-se menos**.
 
@@ -24,6 +28,8 @@ Com aumento da concentração, aumenta-se também sua capacidade de compreensão
 
 Até existem treinos em que aceleramos de forma um pouco exagerada, mas seriam exercícios para desenvolver pontos específicos como concentração, musculatura ou coordenação dos olhos, e também não seria a uma velocidade extrema.
 
+#### Preciso ler um livro de capa a capa
+
 Não precisamos **ler um livro de uma capa a outra**. Pode ser que você fique com receio de que não poderá dizer que leu o livro, mas não fique.
 
 Se acontecer uma das duas coisas abaixo depois que começar a ler, então sinta-se livre para partir para a próxima:
@@ -36,6 +42,8 @@ Você não assina um contrato com o autor quando começa a ler, então pode para
 Pessoas inteligentes não continuam a fazer aquilo que não gera resultados. Você também não deveria.
 
 Otimize seu tempo. Pegue do livro aquilo que interessa para você!
+
+#### Posso ler todos os materiais da mesma forma
 
 Outro mito é acreditar que se pode **ler todos os materiais da mesma forma**.
 
@@ -55,6 +63,8 @@ Terão casos em que o engenheiro também precisará moderar sua velocidade mesmo
 
 Em cada nível de complexidade (baixa, alta, etc.) ele irá impor um ritmo diferente.
 
+#### Leitura rápida tira o prazer de ler
+
 Sobre a crença de que a **leitura rápida tira o prazer de ler**, eu concordo em partes.
 
 Imagine alguém lendo um bom livro de ficção (aventura, romance, etc.). Essa pessoa não vai querer (e com razão) que o livro termine. Vai querer curti-lo ao máximo.
@@ -66,6 +76,8 @@ Agora, para conteúdos técnicos (que é o foco desse livro), o prazer não est�
 O prazer em aprender algo novo é muito maior do que o prazer de ler.
 
 Eu mesmo costumo dizer que não gosto de ler, eu gosto de aprender. A leitura é, simplesmente, um meio para isso.
+
+#### A velocidade máxima de leitura é aquela desenvolvida na escola
 
 O último mito é sobre o pensamento de que **a velocidade máxima de leitura é aquela desenvolvida na escola**. Por muito tempo pensei assim, que não era possível aumentar minha velocidade.
 

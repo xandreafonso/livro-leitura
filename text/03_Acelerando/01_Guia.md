@@ -2,20 +2,22 @@
 
 A leitura guiada consiste em utilizar algum objeto (que muitas vezes é uma caneta ou o próprio dedo indicador) para servir como um guia para os olhos.
 
-Essa simples prática traz vários benefícios. Vejamos alguns:
+Essa simples prática traz alguns benefícios. Vejamos:
 
-* Força seus olhos a focarem na linha lida;
-* Ajuda na concentração;
-* Ajuda seus olhos a encontrarem a próxima linha facilmente;
-* Como envolve o seu corpo, acaba ajudando a ficar alerta;
+* Força seus olhos a focarem na linha correta;
+* Ajuda a encontrar a próxima linha facilmente;
 * Fazem seus olhos correrem mais suavemente;
+* Como envolve o seu corpo, acaba ajudando a ficar alerta;
+* Ajuda na concentração;
 * E, claro, ajuda a aumentar a velocidade.
 
-A primeira coisa que você precisa fazer é escolher o seu guia: o dedo indicador, uma caneta ou qualquer outro objeto. 
+A primeira coisa que você precisa fazer é escolher o seu guia. Como guia você pode usar o dedo indicador, uma caneta ou qualquer outro objeto que te deixe confortável.
 
-Agora seus olhos devem seguir o guia pelas linhas do livro enquanto você o acelera acima da velocidade em que tem costume de ler.
+Para começar, aponte seu guia para o início da frase, parágrafo ou texto. Agora deslise seu guia pela linha e claro, vá acompanhando com os olhos.
 
-Essa ação de acelerar além da velocidade de costume vai te ajudar na concentração, pois seu corpo estará envolvido através da condução do guia que seus olhos irão seguir. 
+Esse simples uso do guia já trás benefícios pelo fato de deixar a leitura mais ativa, portanto, aumentando a concentração.
+
+Como nosso objetivo com ela é ler mais rápido, você vai movimentar o guia a uma velocidade um pouco maior que a sua velocidade de costume.
 
 Isso vai te ajudar a sair da sua zona de conforto até que seus limites sejam expandidos, ou seja, até que você se acostume com velocidades maiores e elas passem a ser sua velocidade normal.
 
@@ -24,3 +26,5 @@ Aqueles que utilizam muito os materiais digitais (artigos em blogs, PDFs e docum
 É legal notar aqui que você não ficará dependente do guia. Ele é importante somente durante os treinos.
 
 Depois que estiver contente com sua velocidade de leitura, o guia será facultativo. Por outro lado, nada impede que você o use para o resto da vida, se sentir-se confortável assim.
+
+Eu uso até hoje em algumas leitura que faço.

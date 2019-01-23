@@ -617,7 +617,7 @@ strong {
 .table-of-contents .level3 a {
   color: #000;
   padding-left: 35px;
-  
+
   &:before {
     content: target-counter(attr(href), chapter) "." target-counter(attr(href), subchapter) " ";
     position: absolute;
@@ -647,9 +647,9 @@ strong {
   font-family: $font-family;
   background: none;
   color: #000;
-  font-size: 2.5em;
+  font-size: 2.7em;
   line-height: 1.4em;
-  margin: 200px 0 0 0;
+  margin: 150px 0 0 0;
   padding: 0px;
 
   &:before {
@@ -658,6 +658,14 @@ strong {
     font-size: 0.5em;
     text-transform: none;
   }
+}
+
+.chapter > h3 {
+  font-size: 2em
+}
+
+.chapter > h4 {
+  font-size: 1.8em
 }
 
 @page backpage {
