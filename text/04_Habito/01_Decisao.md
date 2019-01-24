@@ -1,4 +1,4 @@
-### O Primeiro Passo Para O Hábito
+### O Primeiro Passo
 
 Não é fácil criar o hábito de leitura. Muitos fazem promessas de inicio de ano, mas acabam se rendendo a dificuldade que é ler todos os dias. Por outro lado, é possivel diminuir as barreiras para a criação do hábito de leitura.
 
