@@ -10,4 +10,15 @@ Uma noticia boa é que, apesar da quantidade de itens que podemos levar para a m
 
 Quando estamos aprendendo algo novo, difícil, algo que temos pouco ou nenhum conhecimento prévio, as informações novas que vamos captando vão para nossa memória de trabalho de forma isolada, sem agrupamento algum, ocupando assim 1 item cada. Isso acaba dificultando o pensamento, o raciocínio e, portanto, tem impacto direto na nossa capacidade de compreender e tirarmos nossas conclusões.
 
-Inclusive a diferença na velocidade do pensamento entre um especialista e um inicíante é justamente o tamanho dos itens que cada um leva para a memória de trabalho para poder pensar. Como as informações na mente do especialista já estão organizadas e agrupadas, no final das contas ele vai ter muito mais informações disponíveis no momento do raciocínio.
+Inclusive a diferença na velocidade do pensamento entre um especialista e um iniciante é justamente pelo tamanho dos itens que cada um leva para a memória de trabalho para poder pensar. Como as informações na mente do especialista já estão organizadas e agrupadas, no final das contas ele vai ter muito mais conteúdo disponível no momento do raciocínio.
+
+Para você conseguir um pensamento mais rápido, basta então trabalhar com estratégias de compreensão que te permitirão organizar as informações de forma a poder agrupá-las e assim também ter mais conteúdo disponível em sua memória de trabalho para poder pensar. Não estou dizendo que é fácil, mas é simples.
+
+#### O impacto na leitura
+
+O tempo que demoramos para ler tem a ver com a nossa parte fisiológica (movimento dos olhos), capacidade de concentração (ambiente, corpo e mente) e capacidade de processar a informação lida. E esse processamento de informações está totalmente ligado a nossa memória de trabalho.
+
+Eu diria até que nossa capacidade de compreensão tem impacto positivo muito maior em nossas leituras do que as tecnicas de aceleração fisiológicas. Técnicas como a leitura guiada funcionam sim e eu recomendo, mas acredito que trabalhar a compreensão traz muito mais benefícios.
+
+Pensando em termos de memória de trabalho, a solução é organizar a informação e agrupá-la de tal forma que seja possível disponibilizar muito conteúdo no momento do raciocínio. Conseguimos fazer isso trabalhando o nosso conhecimento de base ou **conhecimento prévio** sobre o assunto. Na prática, seria fazermos uma preparação para leitura daquilo que for mais complexo.
+
