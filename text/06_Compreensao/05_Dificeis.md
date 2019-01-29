@@ -1,0 +1,1 @@
+### Estratégia Para Leituras Difíceis

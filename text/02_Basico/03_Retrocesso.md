@@ -1,8 +1,6 @@
 ### Cuidado Com Retrocessos
 
-Retroceder, como o próprio nome indica, é voltar a um trecho anterior de texto após ter passado por ele. Seria, por exemplo, quando você volta ao início de um parágrafo logo depois de chegar ao final do mesmo.
-
-Durante uma leitura é comum termos de voltar e reler algum trecho que não ficou bem compreendido. Existirão casos em que o retrocesso ocorrerá por você simplesmente não ter entendido alguma parte, mas em outros será por falta de atenção.
+Retroceder, como o próprio nome indica, é voltar a um trecho anterior de texto após ter passado por ele. Seria, por exemplo, quando você volta ao início de um parágrafo logo depois de chegar ao final do mesmo. Durante uma leitura é comum termos de voltar e reler algum trecho que não ficou bem compreendido. Existirão casos em que o retrocesso ocorrerá por você simplesmente não ter entendido alguma parte, mas em outros será por falta de atenção.
 
 Vou passar duas dicas para você aprender a lidar com esse problema.
 
@@ -20,6 +18,4 @@ Por segurança você ir marcando aquilo que não conhece, pois caso não seja po
 
 O segundo caso em que quero passar uma dica é o de quando retrocedemos por falta de atenção. Esse é mais grave, pois o tempo é literalmente jogado fora.
 
-Um exercício que pode fazer é ler de 3 a 5 minutos e evitar retroceder mesmo que não tenha entendido alguma parte do texto. No final, mesmo que acredite ter compreendido muito pouco, procure sintetizar (de forma escrita ou oral) aquilo que leu.
-
-Importante destacar que esse exercício de evitar retroceder, não é um treino de velocidade ou compreensão e sim, de **foco** e **concentração**. Não dá para fazer uma boa leitura retrocedendo a todo momento por falta de atenção.
+Um exercício que pode fazer é ler de 3 a 5 minutos, e evitar retroceder mesmo que não tenha entendido alguma parte do texto. No final, mesmo que acredite ter compreendido muito pouco, procure sintetizar aquilo que leu. Importante destacar que esse exercício de evitar retroceder, não é um treino de velocidade ou compreensão e sim, de **foco** e **concentração**. Não dá para fazer uma boa leitura retrocedendo a todo momento por falta de atenção.
