@@ -1,4 +1,6 @@
-### Treinando leitura dinâmica
+### Contagem Regressiva
+
+[No livro Menter Brilhantes tem um processo legal de treino que pode agregar a esse].
 
 Até aqui passei a teoria para você e agora vou sugerir um método para que você treine sua leitura dinâmica.
 
