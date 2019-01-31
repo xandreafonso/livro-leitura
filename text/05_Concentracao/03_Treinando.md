@@ -1,4 +1,4 @@
-### Treinando a Concentração
+### Melhorando a Concentração
 
 Da mesma forma que uma pessoa pode treinar e aprender a meditar por vários minutos seguidos (quem sabe horas), é possível praticar a concentração. Vamos fazer uma espécie de ginástica de resistência com o cérebro.
 

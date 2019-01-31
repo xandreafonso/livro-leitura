@@ -6,11 +6,12 @@ Existem várias formas de fazer uma leitura ativa. Para ficar mais claro, vamos 
 
 * Criar definição;
 * Questionamento;
+* 5W2H;
 * Reflexão;
 * Resumir;
 * Organizar;
 * Criatividade;
-* Combinação;
+* Combinação.
 
 #### Criar definição
 
@@ -31,6 +32,40 @@ Não existe uma regra para como criamos esses questionamentos. Pode ser qualquer
 Como foi mencionado, não existe regra para criar as questões, mas quero passar duas que podem guiar você passo a passo na sua caminhada pelo livro. A cada trecho de texto que ler você pode se perguntar "*O que o autor disse aqui?*" e também "*Como isso se encaixa com a parte anterior?*". Caso esteja com dúvidas sobre quais questionamentos são bons de se fazer, você pode ou se guiar pelo seu objeto ou usar essas duas que passei.
 
 Uma outra coisa é você, simplesmente, rememorar cada trecho (que poderia ser um parágrafo ou até um tópico inteiro) que acabou de ler. Se for rememorar por parágrafo, sempre que terminar um, se pergunte "*O que foi que eu acabei de ler no parágrafo anterior?*". É uma ideia bem parecida com as duas questões que acabei de passar para você, mas por ser um outro ponto de vista, achei legal mencionar aqui.
+
+#### 5W2H
+
+Quando a técnica do 5W2H for explicada você vai perceber que se trata de questionamento também. Mas como ela tem algumas perguntas de base muito poderozas, acredito ser interessante falar dela separadamente. É uma técnica usada não só para leitura ativa, como também na administração de empresas e até para criação de textos humorísticos de *stand up comedy*.
+
+A sigla 5W2H vem de iniciais em inglês e significa:
+
+* O que? (What)
+* Quem? (Who)
+* Quando? (When)
+* Onde? (Where)
+* Por quê? (Why)
+* Como? (How)
+* Quanto? (How much)
+
+Repare nas palavras em inglês... São cinco que começam com "W" e duas que começa com "H". Por isso 5W2H. A ideia é usar esses prefixos para poder criar perguntas e questionar o texto que estamos lendo.
+
+Para exemplificar como usar para criar as perguntas, vamos supor que você vai ler um livro cujo tema é *hábito* (como o livro chamado O Poder do Hábito - de Charles Duhigg). Com base no 5W2H, poderia criar as seguintes perguntas a serem respondidas ao longo da leitura:
+
+* O que é um hábito?
+* O que compõe um hábito?
+* Quem pode se beneficiar com isso?
+* Quando nasce um hábito?
+* Quando um hábito termina?
+* Onde poderia aplicar esse conhecimento?
+* Por que criamos hábitos?
+* Como controlar um hábito? 
+* Quanto tempo preciso repetir algo até que vire hábito?
+
+Esses foram somente alguns exemplos. Poderia ter feito muito mais.
+
+Repare três coisas. A primeira é que o único padrão que temos é começar com os prefixos que estão dentro do 5W2H e, a não ser isso, não existe regra para criação as perguntas. Segundo, é que as perguntas são feitas com base em um mínimo de conhecimento que se tem sobre o tema. Quanto mais conhecimento prévio possuir sobre o tema, maiores são as chances de formular boas perguntas. Mas note que já é possível formular as mesmas somente a partir da sua consciência de que o assunto existe. A última coisa a se notar agora é que, a partir das perguntas feitas com 5WH, você tem inspiração para criar outras. Ex: a pergunta "*Como controlar um hábito? *" pode inspirar a pergunta "*É possível controlar nossos hábitos?*" que não está dentro do padrão 5W2H.
+
+Como dica extra, essa técnica pode ser usada também para que você crie uma redação, artigo ou, quem sabe, um livro sobre qualquer tema. Basta ir criando as perguntas e, claro, respondendo. No final, vai perceber que pode juntar as respostas de cada pergunta para embasar seu texto do início ao fim.
 
 #### Reflexão
 
