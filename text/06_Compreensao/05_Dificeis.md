@@ -6,7 +6,7 @@ O método é dividido em 6 passos:
 
 * Considere o que já sabe;
 * Conhecimento de base;
-* Desconstrua o conteúdo;
+* Planejamento;
 * Faça leitura ativa;
 * Confirme a compreensão;
 * Foque nos pontos de maior dificuldade.
@@ -25,7 +25,7 @@ Para ter uma ideia do conhecimento prévio necessário, você pode fazer uma pr�
 
 Com base na pré-leitura, você será capaz de identificar e buscar o conhecimento que falta para dar início a leitura principal. Esse conhecimento de base pode ser adquirido através da leitura de materiais introdutórios que podem ser livros mais básicos ou conteúdos pesquisados na internet. Claro, é legal que isso seja feito antes de começar a leitura complexa. Mas pode acontecer de, no meio da leitura, percebermos que falta algum conhecimento prévio necessário para um bom entendimento do texto. O jeito é dar um passo (ou dois) atrás e buscar o conhecimento que falta.
 
-#### Desconstrua o conteúdo
+#### Planejamento
 
 Basicamente, você vai planejar como será a leitura mais aprofundada. Pensar sobre os capítulos ou partes em que precisará se aprofundar mais.
 
