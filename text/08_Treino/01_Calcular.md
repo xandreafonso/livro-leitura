@@ -47,7 +47,7 @@ Com relação a dica do passo um, ao contar o número de palavras de cada linha,
 
 A dica do passo três segue o mesmo raciocínio. Quando uma linha ocupa somente metade do espaço, eu espero chegar em outra linha que também está ocupando metade e conto as duas como uma linha só. O motivo é o mesmo da dica do passo um. É para que eu não tenha a impressão de estar lendo mais rápido do que estou de fato.
 
-#### Agora é com você
+#### Sua velocidade
 
 Sua missão agora é **calcular a sua velocidade**. É bom que você faça essa medida agora para ter noção do seu progresso desde o princípio.
 
