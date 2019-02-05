@@ -10,13 +10,11 @@ A boa notícia é que existem ações, coisas práticas que podemos fazer para e
 
 Uma das coisas que mais motivam o ser humano são desafios que ao mesmo tempo que passam uma percepção de dificuldade, são também vistos como possíveis. A absoluta maioria dos desafios que aceitamos encarar são aqueles que enxergamos, mesmo que remotamente, a possibilidade de vencer. Essa percepção de um desafio difícil, porém alcançavel, é mais determinante na escolha da pessoa, do que a natureza do desafio em si.
 
-Claro que essa percepção tem a ver com o momento em que a pessoa está vivendo, há uma série de fatores envolvidos. Mas não desqualifica o a teoria de que a percepção de dificuldade é determinante. É importante ter isso em mente porque vai te ajudar a identificar a causa de problemas desmotivadores relacionados ao nível de complexidade das leituras que estiver fazendo.
+Claro que essa percepção tem a ver com o momento em que a pessoa está vivendo, há uma série de fatores envolvidos. Mas não desqualifica a teoria de que a percepção de dificuldade é determinante. É importante ter isso em mente porque vai te ajudar a identificar a causa de problemas desmotivadores relacionados ao nível de complexidade das leituras que estiver fazendo.
 
-Tirar um tempo para ler... A criação do hábito de leitura... É difícil por si só. Se você adicionar a isso leituras mais complexas do que o preço que está disposto a pagar, a barreira ficará muito grande.
+Tirar um tempo para ler... A criação do hábito de leitura... É difícil por si só. Se você adicionar a isso leituras mais complexas do que o preço que está disposto a pagar, a barreira ficará muito grande. Quando eu falo de preço, me refiro a relação entre aquilo que você quer ganhar e o esforço que está disposto a fazer. É preciso equilíbrio entre essas duas coisas. Ganhar aqui pode estar relacionado a ser reconhecido como uma pessoa inteligênte, a dinheiro, mas não são somente essas duas coisas, é muito mais, e não daria para listar tudo aqui.
 
-Quando eu falo de preço, me refiro a relação entre aquilo que você quer ganhar e o esforço que está disposto a fazer. É preciso equilíbrio entre essas duas coisas. 
-
-Ganhar aqui pode estar relacionado a dinheiro, mas não é só isso, é muito mais. Pode ser ganhar reconhecimento por exemplo.
+Importante notar também que o equilibrio certo entre o conhecimento que você já possui, a complexidade do livro e os benefícios que você imagina colher com a leitura, pode fazer você entrar em um estado conhecido como *flow*. Provavelmente, você já esteve assim em diversos momentos. É aquele estado em que você não sente o tempo passar. Está relacionado a coisas prazerosas que fazemos. Além de usar minha experiência pessoal para essa afirmação, me apoio também no livro chamado, não por coincidência, **Flow: The Psychology of Optimal Experience** (do autor Mihaly Csikszentmihalyi) que diz que quanto maior o equilibrio entre habilidade e desafio, mais perto ficamos do estado de *flow*. Para nós, a habilidade está relacionada ao conhecimento que já possuímos e desafio relaciona-se a complexidade da leitura. Por isso posso dizer que a teoria do *flow*, encontrada no livro citado, é equivalente a que descrevi nesse tópico.
 
 #### Pense no médio, longo prazo
 
