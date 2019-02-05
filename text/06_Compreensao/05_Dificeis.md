@@ -33,7 +33,7 @@ Basicamente, você vai planejar como será a leitura mais aprofundada. Pensar so
 
 Esse é o momento de fazer a leitura mais aprofundada do conteúdo, buscando entender cada ponto na profundidade com que sua necessidade pede. É o momento de combinar o máximo de técnicas de leitura ativa para potencializar a compreensão.
 
-Duas técnicas de leitura ativa que considero com melhor custo-benefício, são os questionamentos e as anotações (pelo menos, um grifo criterioso). Não estou dizendo que devem ser as únicas, mas sim, que ajudam na compreensão ao mesmo tempo que não exigem muito esforço para aplicá-las. Mas sinta-se livre para escolher quais técnicas vai usar contanto que seja uma leitura ativa.
+Três técnicas de leitura ativa que considero com melhor custo-benefício, são os questionamentos, as anotações (pelo menos, um grifo criterioso) e a reflxão. Não estou dizendo que devem ser as únicas, mas sim, que ajudam na compreensão ao mesmo tempo que não exigem muito esforço para aplicá-las. Mas sinta-se livre para escolher quais técnicas vai usar contanto que seja uma leitura ativa.
 
 #### Confirme a compreensão
 
