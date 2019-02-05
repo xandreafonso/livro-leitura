@@ -33,3 +33,5 @@ Parecido com o que acontece na técnica do escaneamento, é importante você pre
 * Palavras com algum destaque (negrito, sublinhado, toda em maiúsculo, listas).
 
 Esses são pontos com mais chances de terem maior densidade de conhecimento.
+
+Não esqueça que a todo momento você pode turbinar a aplicação desse método aplicando técnicas de velocidade como a leitura guiada e o agrupamento de palavras.
