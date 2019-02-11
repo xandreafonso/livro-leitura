@@ -6,7 +6,7 @@ O processo de leitura envolve decodificar e interpretar as palavras, criar bloco
 
 Uma parte desse processo é realizada pelos nossos olhos através de fixações e saltos, e a outra parte é realizada pela nossa mente através do raciocínio.
 
-Imagine uma pessoa lendo palavra por palavra, nesse caso, os olhos dela irão fazer uma fixação em cada palavra lida e, para ir de uma palavra a outra, os olhos dão os saltos. Ao contrário do que pode parecer, os olhos não se movimentam de maneira suave e uniforme. Eles dão saltos de uma palavra para outra ou de um grupo de palavras para outro. E esses saltos tomam tempo. Para você ter uma ideia do quanto isso pode durar, cada **fixação** leva cerca de **225 segundos**, e cada **salto**, cerca de **300 milissegundos**.
+Imagine uma pessoa lendo palavra por palavra. Nesse caso, os olhos dela irão fazer uma fixação em cada palavra lida e, para ir de uma palavra a outra, os olhos dão os saltos. Ao contrário do que pode parecer, os olhos não se movimentam de maneira suave e uniforme. Eles dão saltos de uma palavra para outra ou de um grupo de palavras para outro. E esses saltos tomam tempo. Para você ter uma ideia do quanto isso pode durar, cada **fixação** leva cerca de **225 milissegundos**, e cada **salto**, cerca de **300 milissegundos**.
 
 Além de fixações e saltos, temos pausas que usamos para criar **blocos de informação e compreender a ideia** do que estamos lendo que podem levar de **300 a 500 milissegundos**. Afinal, não basta passar os olhos por cima do texto, temos que raciocinar sobre ele para realmente aprender.
 

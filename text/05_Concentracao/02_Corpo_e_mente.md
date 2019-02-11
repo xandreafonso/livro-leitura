@@ -23,7 +23,7 @@ De novo, não quero passar recomendações. Não vou falar sobre o que você dev
 
 Outra coisa são os **exercícios**. Eles trazem benefícios para saúde e ajudam a manter seu corpo saudável para conseguir manter a concentração na leitura. É como se eles expandissem nossa capacidade de armazenar energia.
 
-Não precisa fazer nada muito difícil. Pode começar com 5 minutos de exercício em casa mesmo. Exercícios simples. Já vai ajudar consideravelmente. Com o tempo você pode ir aumentando o tempo, mas não precisa de pressa e nem precisa tanto. Eu mesmo, faço 15 minutos por dia. Já dá até para trabalhar os músculos do corpo.
+Não precisa fazer nada muito difícil. Pode começar com 5 minutos de exercício em casa mesmo. Exercícios simples. Já vai ajudar consideravelmente. Com o tempo você pode ir aumentando a quantidade, mas não precisa de pressa e nem precisa tanto. Eu mesmo, faço 15 minutos por dia. Já dá até para trabalhar os músculos do corpo.
 
 O último ponto aqui é a questão da **postura**. Quanto mais tempo estiver pretendendo ler, mais importante é o local de leitura. Quanto mais conforto melhor para sua concentração. Mas atenção: conforto não quer dizer "ler deitado". Quer dizer um local com uma temperatura agradável, um bom lugar para sentar e, talvez, uma mesa para apoiar o livro.
 
@@ -33,17 +33,17 @@ Agora, caso o seu local de leitura ainda não esteja tão confortável quanto go
 
 Logo que nos ajeitamos para fazer uma leitura, é bem comum começarmos com **divagações**. São pensamentos que vem do nada e não tem a ver com a leitura. Parece que vêm especialmente para atrapalhar. São pensamentos que podem ser derivados de preocupações (stress, ansiendade, etc.), problemas ou da mania de ficar sonhando acordado.
 
-Quanto a ficar sonhando acordado, é preciso fazer um treino simples de concentração para que ela melhore. Sobre as divagações derivadas de problemas e preocupações, eu tenho uma dica simples e eficiente. Quando estiver lendo, procure ter por perto algo para fazer anotações. Assim, sempre que pensar em alguma coisa que precisa resolver, você vai anotar. Dessa forma você alivia sua mente com a segurança de que ainda vai se lembrar da informação depois que terminar a leitura.
+Sobre as divagações derivadas de problemas e preocupações, eu tenho uma dica simples e eficiente. Quando estiver lendo, procure ter por perto algo para fazer anotações. Assim, sempre que pensar em alguma coisa que precisa resolver, você vai anotar. Dessa forma alivia sua mente com a segurança de que ainda vai se lembrar da informação depois que terminar a leitura.
 
-Por último aqui aconselho meditação. Não é meu objetivo ensinar a meditar, mas caso você saiba como, será positivo para sua concentração.
+Quanto a sonhar acordado, aconselho meditação. Não é meu objetivo ensinar a meditar, mas caso você saiba como fazer ou tenha alguém para te ensinar, será positivo para sua concentração. Pode também procurar por exercícios que ajudam a aumentar seu tempo de concentração. Seriam exercícios e treinos que funcionam quase que como a meditação.
 
 #### Quebre pensamentos negativos
 
 Cuidado com ficar nutrindo pensamentos negativos com relação a leitura. Pensamentos como:
 
-* "Ah... Eu nunca vou conseguir terminar de ler esse livro";
-* "Eu vou ter muitas dificuldades com essa leitura";
-* "Será que eu vou conseguir tempo"
+* "*Ah... Eu nunca vou conseguir terminar de ler esse livro*";
+* "*Eu vou ter muitas dificuldades com essa leitura*";
+* "*Será que eu vou conseguir tempo*"
 * Etc..
 
-Não vou dizer aqui para você ficar repetindo frases positivas. Mas sim, para você olhar para a leitura com um olhar positivo. Ao invés de ficar pensando: "Nossa. Esse livro tem tantas páginas". Pense: "Eu vou ler 25% do livro por semana. Terminarei logo logo". É uma diferença sutil, mas vai ajudar muito no médio, longo prazo.
+Não vou dizer aqui para você ficar repetindo frases positivas. Mas sim, para você olhar para a leitura com um olhar positivo. Ao invés de ficar pensando com desânimo: "*Nossa. Esse livro tem páginas demais*". Pense positivamente: "*Eu vou ler 25% do livro por semana. Terminarei logo logo*". É uma diferença sutil, mas vai ajudar muito no médio, longo prazo.

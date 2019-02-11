@@ -1,6 +1,6 @@
 ### Cuidado Com Retrocessos
 
-Retroceder, como o próprio nome indica, é voltar a um trecho anterior de texto após ter passado por ele. Seria, por exemplo, quando você volta ao início de um parágrafo logo depois de chegar ao final do mesmo. Durante uma leitura é comum termos de voltar e reler algum trecho que não ficou bem compreendido. Existirão casos em que o retrocesso ocorrerá por você simplesmente não ter entendido alguma parte, mas em outros será por falta de atenção.
+Retroceder, como o próprio nome indica, é voltar para reler um trecho anterior que acabou de ler. Seria, por exemplo, quando você volta ao início de um parágrafo logo depois de chegar ao final do mesmo. Durante uma leitura é comum termos de voltar e reler algum trecho que não ficou bem compreendido. Existirão casos em que o retrocesso ocorrerá por você simplesmente não ter entendido alguma parte, mas em outros será por falta de atenção.
 
 Vou passar duas dicas para você aprender a lidar com esse problema.
 
@@ -12,7 +12,7 @@ Quando eu digo palavra desconhecida, falo simplesmente daquelas que não se conh
 
 Nessas ocasiões, tente não retroceder para pesquisar o significado de tudo aquilo que é desconhecido. Procure continuar a leitura para tentar pegar o significado da palavra ou termo pelo contexto.
 
-Por segurança você ir marcando aquilo que não conhece, pois caso não seja possível pegar o significado pelo contexto, então ficará mais fácil reencontrar os pontos de dúvida e pesuisar.
+Por segurança você pode ir marcando aquilo que não conhece, pois caso não seja possível pegar o significado pelo contexto, então ficará mais fácil reencontrar os pontos de dúvida para, posteriormente, pesuisar.
 
 #### Retrocesso por falta de atenção
 
