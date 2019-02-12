@@ -10,7 +10,7 @@ Para usar a leitura não-linear na prática, é preciso buscar uma visão geral 
 
 Tendo em mente a visão geral sobre o livro, pensando no seu objetivo para com a leitura, no seu conhecimento prévio do tema, você faz uma análise do sumário. Pensará e decidirá sobre quais capítulos serão lidos e quais serão ignorados.
 
-Uma observação interessante é que, no momento de passar algum o capítulo pelo filtro, você não precisa escolher somente entre ler e não ler. Estando na dúvida de fazer a leitura de algum capítulo, pode decidir que vai ler, mas passará mais rápido pelo mesmo, e só aprofundará sua leitura se indentificar algo interessante no meio do caminho. Você pode decidir que vai ler alguns capítulos mais profundamente, outros nem tanto e outros vai ignorar.
+Uma observação interessante é que, no momento de passar algum o capítulo pelo filtro, você não precisa escolher somente entre ler e não ler. Estando na dúvida de fazer a leitura de algum capítulo, pode decidir que vai ler, mas passará mais rápido pelo mesmo, e só aprofundará sua leitura se identificar algo interessante no meio do caminho. Você pode decidir que vai ler alguns capítulos mais profundamente, outros nem tanto e outros vai ignorar.
 
 Poderá também ler em uma ordem diferente do que está no índice. Por exemplo, talvez seja interessante ler a parte prática primeiro mesmo se a parte teórica vir antes. Na maioria das vezes, a melhor ordem ainda será a do sumário, mas tenha em mente que não é obrigatório que seja.
 
