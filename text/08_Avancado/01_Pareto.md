@@ -9,5 +9,3 @@ Repare que podemos notar ele em muitas áreas da vida. Em uma empresa, 80% das v
 Claro que esse número pode variar. Podemos ter proporções como 70/30, 75/25, 90/10 e outras. A ideia aqui é estar consciente que a minoria dos recursos é responsável pela maioria dos resultados.
 
 O interessante é que podemos ver esse princípio na leitura também. 80% daquilo que o texto tem de maior valor para nós (que eu chamo de "o ouro do texto"), está em somente 20% do conteúdo. As técnicas avançadas que você vai aprender, te ajudam justamente com isso. Buscar o ouro do livro em um mínimo de tempo.
-
-
