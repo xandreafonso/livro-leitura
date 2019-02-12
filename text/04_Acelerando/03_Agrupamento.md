@@ -10,7 +10,7 @@ A boa notícia aqui é que em uma fixação somos capazes de reconhecer, com mel
 
 #### Visão periférica
 
-Ainda é possível captar mais que 3 palavras (4 ou 5, por exemplo), mas, nesses casos, trabalhamos com a nossa visão periférica. Como o próprio nome diz, é o que enxergamos com a parte que delimita a circuncefência da nossa visão. Seria toda a área que envolve a fóvia. Na prática é aquela parte da nossa visão que é mais embaçada. Apesar dela ser assim, com o tempo aprendemos a reconhecer as palavras através dela. Não é fácil, mas é bem possível usá-la.
+Ainda é possível captar mais que 3 palavras (4 ou 5, por exemplo), mas, nesses casos, trabalhamos com a nossa visão periférica. Como o próprio nome diz, é o que enxergamos com a parte que delimita a circunferência da nossa visão. Seria toda a área que envolve a fóvea. Na prática é aquela parte da nossa visão que é mais embaçada. Apesar dela ser assim, com o tempo aprendemos a reconhecer as palavras através dela. Não é fácil, mas é bem possível usá-la.
 
 Já vi em alguns lugares (na internet, livros, cursos, etc.) aconselhando para que o leitor tente captar mais palavras por fixação utilizando a visão periférica. Só que não é explicado que a visão periférica não consegue captar com a mesma nitidez da fóvea. Acredito que essa seja uma informação importante para que os aspirantes a "leitores rápidos" não fiquem achando que sua visão periférica não funciona. Ela vai melhorando com os treinos.
 

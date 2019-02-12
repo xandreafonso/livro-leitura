@@ -6,4 +6,4 @@ Para treinar a concentração, você vai escolher um objeto qualquer e ficar olh
 
 Tem também um exercício que eu recomendo quando falo sobre retrocessos na leitura por falta de atenção. Você pode ler de 3 a 5 minutos, evitando retroceder mesmo que perceba não ter entendido alguma parte do texto. No final, mesmo que acredite ter compreendido pouco, procure sintetizar (de forma escrita ou oral) aquilo que leu.
 
-Particulamente, eu prefiro o treino que usa a leitura. Mas a vantagem do treino usando um simples objeto é que você pode fazer de qualquer lugar.
+Particularmente, eu prefiro o treino que usa a leitura. Mas a vantagem do treino usando um simples objeto é que você pode fazer de qualquer lugar.

@@ -15,9 +15,9 @@ O fato é que somando as 2 horas do deslocamento da ida e mais a 1 hora e meia d
 
 Talvez você esteja se perguntando: "*mas você lia enquanto caminhava?*". Sim, lia. Eu não esperava chegar em algum lugar para ler. Além de ler no ônibus, eu lia andando também.
 
-Foi um tempo que, como gosto de dizer, eu reciclei. Ele estava inicialmente perdido, mas deu para aproveitar ele muito bem. Tanto que tenho certeza abosoluta que o conhecimento adquirdo nesse período me ajudou a conseguir alguns aumentos de salário que tive na época.
+Foi um tempo que, como gosto de dizer, eu reciclei. Ele estava inicialmente perdido, mas deu para aproveitar ele muito bem. Tanto que tenho certeza absoluta que o conhecimento adquirido nesse período me ajudou a conseguir alguns aumentos de salário que tive na época.
 
-Reciclar tempo, é aproveitar aqueles momentos, em que você não está fazendo nenhuma atividade intelectual, para ler. Muitas pessoas tem momentos da rotina que podem ser reciclados e usados para leitura. Pode ser algum momento em que você espera por algo ou alguém ou quem sabe um momento de deslocamento no ônibus.
+Reciclar tempo, é aproveitar aqueles momentos, em que você não está fazendo nenhuma atividade intelectual, para ler. Muitas pessoas têm momentos da rotina que podem ser reciclados e usados para leitura. Pode ser algum momento em que você espera por algo ou alguém ou quem sabe um momento de deslocamento no ônibus.
 
 Não estou dizendo que você vai precisar ler enquanto anda como cheguei a fazer, mas é importante você refletir um pouco sobre se não existe nenhum momento da sua rotina que poderia ser usado para leitura. Tem?
 
@@ -25,7 +25,7 @@ Não estou dizendo que você vai precisar ler enquanto anda como cheguei a fazer
 
 Aqui basicamente você vai listar as atividades do dia e analisar cada uma na intenção de transferir tempo de uma atividade qualquer para a leitura. Talvez você gaste alguns minutos antes de dormir olhando coisas no celular e possa transferir esse tempo para a leitura, ou melhor ainda, você usa esse tempo para dormir mais cedo e acordar mais cedo para ler. Quem sabe você nem precise acordar mais cedo, mas só de conseguir se arrumar mais rápido de manhã antes de ir para escola ou trabalho já vai fazer com que sobre um tempo para leitura.
 
-Na análise que você vai fazer sobre suas atividades diárias você pode encontrar tanto atividades que poderiam ser completamente substituidas pela leitura (como navegar na internet) como atividades que você poderia executar mais rapidamente para que sobre um tempo que usará para ler.
+Na análise que você vai fazer sobre suas atividades diárias você pode encontrar tanto atividades que poderiam ser completamente substituídas pela leitura (como navegar na internet) como atividades que você poderia executar mais rapidamente para que sobre um tempo que usará para ler.
 
 Importante notar que qualquer 5 minutos já pode ajudar. Se você lê 5 minutos de manhã, 5 no almoço e 5 de noite, serão 15 no final do dia e está muito bom para começar.
 

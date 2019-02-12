@@ -4,7 +4,7 @@ Vou te ensinar a calcular a sua velocidade de leitura. Isso te permite acompanha
 
 #### A fórmula geral
 
-A formula geral para calcularmos a velocidade de leitura é:
+A fórmula geral para calcularmos a velocidade de leitura é:
 
 VELOCIDADE = PALAVRAS / MINUTOS
 
@@ -12,7 +12,7 @@ Basta você ler por uma quantidade de minutos qualquer, contar a quantidade de p
 
 Note que é preciso converter os segundos para minutos. Para essa conversão, basta dividir os segundos por 60. Supondo que leu por 5 minutos e 45 segundos, divida 45 por 60. O resultado dessa divisão você junta com os cinco minutos lidos. Como o resultado da divisão é 0,75, o total em minutos fica sendo 5,75 minutos. Esse seria o valor utilizado na fórmula.
 
-É bem simples. O grande problema de aplicar essa fórmula ao pé da letra é que seria trabalhoso ficar contanto o número de palavras que leu sempre que for fazer suas medições. Só não será um problema se você estiver usando um documento digital, por exemplo, o Microsoft Word que já informa o número de palavras selecionadas do texto, então dá para aplicar a fórmula sem problemas.
+É bem simples. O grande problema de aplicar essa fórmula ao pé da letra é que seria trabalhoso ficar contando o número de palavras que leu sempre que for fazer suas medições. Só não será um problema se você estiver usando um documento digital, por exemplo, o Microsoft Word que já informa o número de palavras selecionadas do texto, então dá para aplicar a fórmula sem problemas.
 
 #### Jeito prático
 
@@ -33,7 +33,7 @@ Depois de ler, você vai para o **terceiro** passo que é sintetizar ou resumir 
 
 No **quarto** passo você vai contar o número de linhas que leu. Com essa contagem feita, você vai para a multiplicação.
 
-Para o **quinto** passo vamos multiplicar o número de linhas lidas pela média de palavras por linha. Suponto que você leu 100 linhas (mais ou menos 2 páginas de um livro comum), multiplique 11 (a média de palavras de cada linha do nosso exemplo) por 100 que vai dar 1.100 palavras lidas no total.
+Para o **quinto** passo vamos multiplicar o número de linhas lidas pela média de palavras por linha. Supondo que você leu 100 linhas (mais ou menos 2 páginas de um livro comum), multiplique 11 (a média de palavras de cada linha do nosso exemplo) por 100 que vai dar 1.100 palavras lidas no total.
 
 No **sexto** e último passo, dividimos o total de palavras lidas pela quantidade de minutos que lemos. Em nosso exemplo seria 1.100 dividido por 7 que dará 157 (mais exatamente, 157,142857143). O resultado desse último passo é a sua quantidade de palavras lidas por minuto. No nosso exemplo são 157 palavras lidas a cada minuto. Esse 157 seria a velocidade de leitura.
 

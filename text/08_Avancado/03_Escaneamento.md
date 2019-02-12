@@ -14,4 +14,4 @@ Na prática ela é bem simples. Você começa lendo a **capa** e **contracapa**,
 
 Dependendo do nível em que quiser escanear o livro, vale a pena ler o primeiro parágrafo de cada capítulo e também o último. Isso é porque o parágrafo do início seria uma espécie de introdução e do final a conclusão.
 
-Podemos também acrescentar mais um nível de profundidade na técnica do escaneamento. Você pode ler a primeira ou as primeiras frases de cada um dos paráfrafos. Fazendo isso, você terá um mapeamento ainda mais preciso.
+Podemos também acrescentar mais um nível de profundidade na técnica do escaneamento. Você pode ler a primeira ou as primeiras frases de cada um dos parágrafos. Fazendo isso, você terá um mapeamento ainda mais preciso.

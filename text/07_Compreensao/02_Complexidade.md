@@ -2,7 +2,7 @@
 
 Qual é o conhecimento prévio necessário para resolver equações matemáticas? São as operações básicas (soma, subtração, multiplicação e divisão). Óbvio, não? Nesse caso, sim. É óbvio. Mas nem sempre temos claro qual seria o conhecimento prévio necessário para determinado tema. Se tudo fosse óbvio, ninguém reclamaria que não consegue aprender sobre algo, pois, a compreensão de qualquer assunto só depende de termos o conhecimento prévio necessário.
 
-Tudo o que aprendemos depende te algo que já conhecemos, ou seja, depende de algum conhecimento prévio nosso. Não é à toa que analogias são uma das melhores formas de começar a entender algo.
+Tudo o que aprendemos depende de algo que já conhecemos, ou seja, depende de algum conhecimento prévio nosso. Não é à toa que analogias são uma das melhores formas de começar a entender algo.
 
 As analogias comparam uma coisa que já conhecemos com a informação desconhecida. Uma boa analogia facilita muito as coisas, não é mesmo? Infelizmente, nem sempre conseguirmos essas analogias para nos ajudar. Quando o processo de compreensão de um assunto é algo conhecido, como no exemplo das equações matemáticas, então tudo fica mais simples. É como subir uma escada: você precisa fazer esforço, mas não é tão grande assim.
 

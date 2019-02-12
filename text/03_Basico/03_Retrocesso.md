@@ -12,7 +12,7 @@ Quando eu digo palavra desconhecida, falo simplesmente daquelas que não se conh
 
 Nessas ocasiões, tente não retroceder para pesquisar o significado de tudo aquilo que é desconhecido. Procure continuar a leitura para tentar pegar o significado da palavra ou termo pelo contexto.
 
-Por segurança você pode ir marcando aquilo que não conhece, pois caso não seja possível pegar o significado pelo contexto, então ficará mais fácil reencontrar os pontos de dúvida para, posteriormente, pesuisar.
+Por segurança você pode ir marcando aquilo que não conhece, pois caso não seja possível pegar o significado pelo contexto, então ficará mais fácil reencontrar os pontos de dúvida para, posteriormente, pesquisar.
 
 #### Retrocesso por falta de atenção
 

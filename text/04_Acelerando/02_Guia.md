@@ -11,7 +11,7 @@ A leitura guiada consiste em utilizar algum objeto (que muitas vezes é uma cane
 
 A primeira coisa que você precisa fazer é escolher o seu guia. Como guia, você pode usar o dedo indicador, uma caneta ou qualquer outro objeto que te deixe confortável.
 
-Para começar, aponte seu guia para o início da frase, parágrafo ou texto. Agora deslize seu guia pela linha e claro, vá acompanhando com os olhos. Esse simples uso do guia já tráz benefícios pelo fato de deixar a leitura mais ativa, portanto, aumentando a concentração.
+Para começar, aponte seu guia para o início da frase, parágrafo ou texto. Agora deslize seu guia pela linha e claro, vá acompanhando com os olhos. Esse simples uso do guia já traz benefícios pelo fato de deixar a leitura mais ativa, portanto, aumentando a concentração.
 
 Como nosso objetivo com ele é ler mais rápido, você vai movimentar o guia a uma velocidade um pouco maior que a sua velocidade de costume. Isso vai te ajudar a sair da sua zona de conforto até que seus limites sejam expandidos, ou seja, até que você se acostume com velocidades maiores e elas passem a ser sua velocidade normal.
 

@@ -1,6 +1,6 @@
 ### Corpo e Mente
 
-O estado da sua mente e do seu corpo está diretamente ligado a velocidade de leitura que você vai atingir e o quanto você vai compreender. Isso porque se qualquer um dos dois não está bem, não conseguimos nos concentrar o máximo que podemos. É um assunto até meio clichê, confeso. Mas nesse caso, prefiro pecar pelo excesso do que pela omissão.
+O estado da sua mente e do seu corpo está diretamente ligado a velocidade de leitura que você vai atingir e o quanto você vai compreender. Isso porque se qualquer um dos dois não está bem, não conseguimos nos concentrar o máximo que podemos. É um assunto até meio clichê, confesso. Mas nesse caso, prefiro pecar pelo excesso do que pela omissão.
 
 #### Cuidando do corpo
 
@@ -13,7 +13,7 @@ Os pontos que quero tratar aqui são:
 * Exercícios físicos;
 * Postura.
 
-O **sono** é uma das coisas mais importantes para que você consiga manter seu corpo bem para uma leitura (não só para leitura como para o dia a dia). Mas também não é minha pretenção passar quantas horas você deve dormir. Isso vai depender de cada pessoa. Depende da rotina de cada um, da alimentação de cada um... É bem complexo. 
+O **sono** é uma das coisas mais importantes para que você consiga manter seu corpo bem para uma leitura (não só para leitura como para o dia a dia). Mas também não é minha pretensão passar quantas horas você deve dormir. Isso vai depender de cada pessoa. Depende da rotina de cada um, da alimentação de cada um... É bem complexo. 
 
 Minha recomendação é que você procure se conhecer, procure notar a hora que vai dormir, note a hora que acorda e também como passou o dia. Assim você vai ter uma noção mais exata de quanto tempo precisa dormir para recarregar energia suficiente para seu tipo de rotina (com a leitura incluída).
 
@@ -31,7 +31,7 @@ Agora, caso o seu local de leitura ainda não esteja tão confortável quanto go
 
 #### Cuidando da mente
 
-Logo que nos ajeitamos para fazer uma leitura, é bem comum começarmos com **divagações**. São pensamentos que vem do nada e não tem a ver com a leitura. Parece que vêm especialmente para atrapalhar. São pensamentos que podem ser derivados de preocupações (stress, ansiendade, etc.), problemas ou da mania de ficar sonhando acordado.
+Logo que nos ajeitamos para fazer uma leitura, é bem comum começarmos com **divagações**. São pensamentos que vem do nada e não tem a ver com a leitura. Parece que vêm especialmente para atrapalhar. São pensamentos que podem ser derivados de preocupações (stress, ansiedade, etc.), problemas ou da mania de ficar sonhando acordado.
 
 Sobre as divagações derivadas de problemas e preocupações, eu tenho uma dica simples e eficiente. Quando estiver lendo, procure ter por perto algo para fazer anotações. Assim, sempre que pensar em alguma coisa que precisa resolver, você vai anotar. Dessa forma alivia sua mente com a segurança de que ainda vai se lembrar da informação depois que terminar a leitura.
 
@@ -39,7 +39,7 @@ Quanto a sonhar acordado, aconselho meditação. Não é meu objetivo ensinar a 
 
 #### Quebre pensamentos negativos
 
-Cuidado com ficar nutrindo pensamentos negativos com relação a leitura. Pensamentos como:
+Cuidado com ficar nutrindo pensamentos negativos com relação à leitura. Pensamentos como:
 
 * "*Ah... Eu nunca vou conseguir terminar de ler esse livro*";
 * "*Eu vou ter muitas dificuldades com essa leitura*";
