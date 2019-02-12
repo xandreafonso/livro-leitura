@@ -18,7 +18,7 @@ Vamos pensar nos casos de você estar lidando com um texto complexo que possui m
 
 Nessas ocasiões, tente não retroceder para pesquisar o significado de tudo aquilo que é desconhecido. Procure continuar a leitura para tentar pegar o significado da palavra ou termo pelo contexto.
 
-Por segurança você ir marcando aquilo que não conhece, pois caso não seja possível pegar o significado pelo contexto, então ficará mais fácil reencontrar os pontos de dúvida e pesuisar.
+Por segurança, é legal ir marcando aquilo que não conhece, pois caso não seja possível pegar o significado pelo contexto, ficará mais fácil reencontrar os pontos de dúvida e pesquisar.
 
 #### Desrespeito a pontuação
 
@@ -36,12 +36,12 @@ Não force a sua velocidade de leitura da mesma maneira em todos os momentos. Di
 
 #### Leitura passiva
 
-Esse é o tipo de leitura em que seus olhos simplesmente passam pelo texto. Até existe a descodificação e a busca por sentido em cada frase lida, mas não há esforço para que contexões mais amplas sejam criadas, não são feitas reflexões sobre o que foi lido. Itens do texto não tão bem compreendidos ficam por isso mesmo.
+Esse é o tipo de leitura em que seus olhos simplesmente passam pelo texto. Até existe a decodificação das palavras e a busca por sentido em cada frase lida, mas não há esforço para que contexões mais amplas sejam criadas, não são feitas reflexões sobre o que foi lido. Itens do texto não tão bem compreendidos ficam por isso mesmo.
 
-Até é possível aprender alguma coisa se for um texto simples, mas não recomendo em nenhum momento. É importante pensar sobre as informações que vai adquirindo, buscar associar o conteúdo, levantar questões que você imagina que o livro ainda precisa responder no continuar da leitura... Enfim, refletir sobre o conteúdo.
+Até é possível aprender alguma coisa se for um texto simples, mas não recomendo leitura passiva em nenhum momento. É importante pensar sobre as informações que vai adquirindo, buscar associar o conteúdo, levantar questões que você imagina que o livro ainda precisa responder no andar da leitura... Enfim, refletir sobre o conteúdo.
 
 #### Didática ruim do material
 
-É delicada essa situação. Alguém pode facilmente apontar, como desculpa para o fato de não ter compreendido algo, a didática do material, quando precisava somente olhá-lo com mais calma para conseguir um bom entendimento.
+O nível da didática do material é o que diz se o mesmo é bom ou ruim dentro daquilo que ele propõe.
 
-Mas se você estiver se esforçando e ainda assim não estiver compreendendo o livro, então pode ser que a didática do material seja ruim. Nesse o jeito é procurar por materiais com abordagens diferentes sobre o mesmo conteúdo.
+Se você estiver se esforçando e ainda assim não estiver compreendendo o livro, então pode ser que a didática do material seja ruim. Nesse caso, o jeito é procurar por materiais com abordagens diferentes sobre o mesmo conteúdo ou pelo menos, materiais complementares.

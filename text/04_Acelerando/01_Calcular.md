@@ -8,11 +8,11 @@ A formula geral para calcularmos a velocidade de leitura é:
 
 VELOCIDADE = PALAVRAS / MINUTOS
 
-Basta você ler por uma quantidade de minutos X (pode ser por 7 minutos), contar a quantidade de palavras que leu e fazer uma divisão que será dividir a quantidade de palavras lidas, por X (quantidade de minutos que leu).
+Basta você ler por uma quantidade de minutos qualquer, contar a quantidade de palavras que leu e fazer uma divisão que será dividir a quantidade de palavras lidas, pela quantidade de minutos.
 
-É bem simples.
+Note que é preciso converter os segundos para minutos. Para essa conversão, basta dividir os segundos por 60. Supondo que leu por 5 minutos e 45 segundos, divida 45 por 60. O resultado dessa divisão você junta com os cinco minutos lidos. Como o resultado da divisão é 0,75, o total em minutos fica sendo 5,75 minutos. Esse seria o valor utilizado na fórmula.
 
-O grande problema de aplicar essa fórmula ao pé da letra é que seria trabalhoso ficar contanto o número de palavras que leu sempre que for fazer suas medições. Só não será um problema se você estiver usando um documento digital, por exemplo, o Microsoft Word que já informa o número de palavras selecionadas do texto, então dá para aplicar a fórmula sem problemas.
+É bem simples. O grande problema de aplicar essa fórmula ao pé da letra é que seria trabalhoso ficar contanto o número de palavras que leu sempre que for fazer suas medições. Só não será um problema se você estiver usando um documento digital, por exemplo, o Microsoft Word que já informa o número de palavras selecionadas do texto, então dá para aplicar a fórmula sem problemas.
 
 #### Jeito prático
 
@@ -25,11 +25,11 @@ Para os outros casos, vou ensinar um jeito mais prático. São 6 passos:
 5. Multiplique o número de linhas que leu pela média de palavras por linha;
 6. Divida por 7 para encontrar seu PPM (Palavras Por Minuto).
 
-Vou explicar detalhadamente agora. **Primeiro**, vamos encontrar o número médio de palavras por linha. Escolha um livro e abra em uma página em que você vai encontrar 5 linhas cheias. Linha cheia é aquela que vai do início da margem até o final. Não use linhas que terminam pela metade. Para cada uma dessas linhas, conte a quantidade de palavras da mesma e anote em algum lugar (pode ser no próprio livro ao final de cada linha). Feito isso, faça a soma dos resultados que encontrou para cada uma dessas linhas. Supondo que na linha 1 você encontrou 11 palavras, na linha 2, 10 palavras, na 3, 12 palavras, na 4, 10 palavras e na 5, 12, então o resultado dessa soma seria 55 palavras. O resultado da soma (que foi 55) será dividido por 5, pois estamos usando cinco linhas para encontrar a média. A divisão resultará em 11, ou seja, o nosso número médio de palavras por linha, em nosso exemplo, é 11.
+Vou explicar detalhadamente agora. **Primeiro**, vamos encontrar o número médio de palavras por linha. Escolha um livro e abra em uma página em que você vai encontrar 5 linhas cheias. Linha cheia é aquela que vai do início da margem até o final. Não use linhas que terminam pela metade. Para cada uma dessas linhas, conte a quantidade de palavras da mesma e anote em algum lugar (pode ser no próprio livro ao final de cada linha). Feito isso, faça a soma dos resultados que encontrou para cada uma dessas linhas. Supondo que na linha um você encontrou 11 palavras, na linha dois, 10 palavras, na três, 12 palavras, na quatro, 10 palavras e na cinco, 12, então o resultado dessa soma seria 55 palavras. O resultado da soma (que foi 55) será dividido por 5, pois estamos usando cinco linhas para encontrar a média. A divisão resultará em 11, ou seja, o número médio de palavras por linha, em nosso exemplo, é 11.
 
 O **segundo** passo é ler por um terço do tempo que você separa para ler diariamente. Se você separa 30 minutos, então use 10 para o cálculo, se lê diariamente por 1 hora, use 20, se lê 9 minutos diários, então use 3, e assim por diante. Na dúvida, use pelo menos 7. Para marcar o tempo, pode usar o cronômetro do celular ou um relógio comum. 
 
-Depois de ler, você vai para o **terceiro** passo que é sintetizar ou resumir o texto. Afinal, mesmo nas leituras para o cálculo de velocidade, você precisa se lembrar do que leu, senão a velocidade final que encontrar será falsa. Não precisa ser um grande resumo totalmente detalhado, mas é importante que saiba levantar alguns tópicos daquilo que leu. Essa sintetize você pode tanto fazer oralmente quanto pode escrever seus pensamentos no papel ou em algum documento digital em seu computador ou celular.
+Depois de ler, você vai para o **terceiro** passo que é sintetizar ou resumir o texto. Afinal, mesmo nas leituras para o cálculo de velocidade, você precisa se lembrar do que leu, senão a velocidade final que encontrar será falsa. Não precisa ser um grande resumo totalmente detalhado, mas é importante que saiba levantar alguns tópicos daquilo que leu. Essa síntese você pode tanto fazer oralmente quanto pode escrever seus pensamentos no papel ou em algum documento digital em seu computador ou celular.
 
 No **quarto** passo você vai contar o número de linhas que leu. Com essa contagem feita, você vai para a multiplicação.
 

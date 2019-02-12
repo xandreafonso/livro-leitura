@@ -22,7 +22,7 @@ O tipo de aceleração que funciona e que você pode fazer agora é aquela em qu
 
 Com aumento da concentração, aumenta-se também sua capacidade de compreensão do conteúdo lido. Por isso, acelerar a leitura (não muito, mas um pouco acima do que de costume) é vantajoso.
 
-Até existem treinos em que aceleramos de forma um pouco exagerada, mas seriam exercícios para desenvolver pontos específicos como concentração, musculatura ou coordenação dos olhos, e também não seria a uma velocidade extrema.
+Até existem treinos em que aceleramos de forma quase exagerada. Seriam exercícios para desenvolver pontos específicos como concentração, musculatura ou coordenação dos olhos, mas também não seria a uma velocidade extrema.
 
 #### Preciso ler um livro de capa a capa
 
@@ -39,7 +39,7 @@ Otimize seu tempo. Pegue do livro aquilo que interessa para você.
 
 Outro mito é acreditar que se pode **ler todos os materiais da mesma forma**.
 
-Um engenheiro civil vai ter mais facilidade para ler seus livros de engenharia do que um primeiro livro sobre filosofia. O engenheiro não será tão bem sucedido na leitura do livro de filosofia se ler ele impondo a mesma velocidade que usa nos materiais que são da sua área.
+Um engenheiro civil vai ter mais facilidade para ler seus livros de engenharia do que um primeiro livro qualquer sobre filosofia. O engenheiro não será tão bem sucedido na leitura do livro de filosofia se ler ele impondo a mesma velocidade que usa nos materiais que são da sua área.
 
 Para o conteúdo de filosofia talvez seja melhor o engenheiro fazer uma pré-leitura e, depois, ler o livro por completo moderando a velocidade de acordo com a complexidade de cada capítulo ou partes do mesmo. Enfim, a estratégia de leitura pode variar de acordo com o nosso pré-conhecimento do assunto abordado. Por isso é normal nossa velocidade de leitura variar. Tudo vai depender do nosso pré-conhecimento sobre o tema.
 

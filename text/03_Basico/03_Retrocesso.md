@@ -2,7 +2,7 @@
 
 Retroceder, como o próprio nome indica, é voltar para reler um trecho anterior que acabou de ler. Seria, por exemplo, quando você volta ao início de um parágrafo logo depois de chegar ao final do mesmo. Durante uma leitura é comum termos de voltar e reler algum trecho que não ficou bem compreendido. Existirão casos em que o retrocesso ocorrerá por você simplesmente não ter entendido alguma parte, mas em outros será por falta de atenção.
 
-Vou passar duas dicas para você aprender a lidar com esse problema.
+Veremos dois casos sobre retrocessos e como lidar com eles.
 
 #### Retrocesso por vocabulário ou termos técnicos
 

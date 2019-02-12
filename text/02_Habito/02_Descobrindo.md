@@ -7,11 +7,11 @@ Fazer uma revisão em sua rotina e agenda pode ajudar a identificar momentos que
 
 #### Reciclar tempo
 
-Em alguns momentos da minha vida eu passei trabalhando em empresas de outra cidade. A viagem durava cerca de uma hora e eu usava esse tempo para fazer muitas leituras. Li vários livros dentro do ônibus.
+Em alguns momentos da minha vida eu passei trabalhando em empresas de outra cidade. A viagem durava cerca de uma hora e eu usei esse tempo para fazer muitas leituras. Li vários livros dentro do ônibus.
 
 E não é só isso. Se eu contar todo o tempo que gastava de quando saia da porta de casa, viagem, trajeto do ponto de chegada até o trabalho e também a espera até a empresa abrir, isso dava mais de 2 horas. Além de ler no ônibus eu procurava ler enquanto me deslocava de a pé. Sem contar que tem a volta também. Essa era um pouco mais rápida, cerca de uma hora e meia, porque não precisava, obviamente, esperar a empresa abrir.
 
-O fato é que somando as 2 horas do deslocamento da ida e mais a 1 hora e meia da volta eu conseguia aproveitar para fazer minhas leituras cerca de 2 horas, ou quase isso. Duas horas é um tempo de leitura diária que considero excelente ainda mais que era para ser um tempo bem improdutivo.
+O fato é que somando as 2 horas do deslocamento da ida e mais a 1 hora e meia da volta eu conseguia aproveitar, para fazer minhas leituras, cerca de 2 horas, ou quase isso. Duas horas é um tempo de leitura diária que considero excelente ainda mais que era para ser um tempo bem improdutivo.
 
 Talvez você esteja se perguntando: "*mas você lia enquanto caminhava?*". Sim, lia. Eu não esperava chegar em algum lugar para ler. Além de ler no ônibus, eu lia andando também.
 

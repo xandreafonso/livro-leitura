@@ -6,6 +6,8 @@ A ideia aqui é transformar compreensão em velocidade. Para nós, compreensão 
 
 Geralmente a primeira do frase parágrafo dá o contexto e o restante explica a ideia do mesmo. Pensando nisso, é interessante ler a primeira frase com mais calma, raciocinar um pouco mais profundamente sobre o que está escrito, compreender bem e depois continuar.
 
-Sendo assim, a partir da segunda frase, podemos ler de forma mais acelerada e ainda conseguir compreender bem também. Veja que para acelerar, é importante ter entendido bem a primeira frase, pois senão as coisas poderão ficar muito confusas. 
+Note que não quer dizer que vai olhar para o teto e refletir. A intensão é entender bem a primeira frase. Use o mínimo de tempo, mas que te possibilite entender bem.
+
+Sendo assim, a partir da segunda frase, podemos ler de forma mais acelerada e ainda conseguir compreender bem também. Reforçando que, para acelerar, é importante ter entendido bem a primeira frase, pois senão as coisas poderão ficar muito confusas. 
 
 A desvantagem dessa técnica é que nem sempre a primeira frase vai conseguir te dar um bom contexto a ponto de te permitir correr ainda mais rápido pelo restante do parágrafo. Isso pode acontecer porque o autor escreveu a primeira frase de modo que, realmente, ela não contextualiza o parágrafo ou porque seu conhecimento prévio não será o suficiente para pegar a ideia dela. Quando isso acontecer o jeito e moderar a velocidade e ler o restante do parágrafo também com um pouco mais de calma.

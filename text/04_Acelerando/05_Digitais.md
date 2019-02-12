@@ -7,7 +7,7 @@ Vou mostrar uma técnica para leitura de materiais digitais que achei muito baca
 * Documentos Word;
 * e outros.
 
-Estou me referindo à técnica chamada Rapid Serial Visual Presentation também conhecida como **RSVP**. Logo nas primeiras vezes que utilizar, já vai perceber um aumento satisfatório em sua velocidade. Com essa técnica é possível que em pouco tempo você triplique ou até quadruplique sua velocidade de leitura com relação a leitura sem seu uso.
+Estou me referindo à técnica chamada *Rapid Serial Visual Presentation* também conhecida como **RSVP**. Logo nas primeiras vezes que utilizar, já vai perceber um aumento satisfatório em sua velocidade. Com essa técnica é possível que em pouco tempo você triplique ou até quadruplique sua velocidade de leitura com relação a leitura sem seu uso.
 
 Em uma semana você já terá capacidade de ler no dobro em que é sua velocidade de leitura atual sem a técnica.
 
@@ -25,7 +25,7 @@ O Spritz é bem fácil de instalar, basta entrar no site dele (http://www.spritz
 
 Repare, na imagem acima, que tem uma barra. Na ponta esquerda tem um sinal de menos e na direita um sinal de mais, e logo abaixo da barra está escrito 250 wpm (*words per minute* ou palavras por minuto). Esse valor é a velocidade com que as palavras estão passando (nesse caso, são 250 palavras a cada minuto). Como você já deve ter imaginado, isso pode ser facilmente alterado na própria barra.
 
-Faça um teste aí agora e veja se gosta. Se gostar, então vai achar legal também o site Readsy (http://www.readsy.co/). Nesse site, além de ser possível ler páginas da internet, podemos colar um texto aleatório (copiado do Word, por exemplo) ou fazer upload de um PDF ou TXT.
+Faça um teste aí agora e veja se gosta. Se gostar, então vai achar legal também o site Readsy (http://www.readsy.co/). Nesse site, além de também ser possível ler páginas da internet, podemos colar um texto aleatório (copiado do Word, por exemplo) ou fazer upload de um PDF ou TXT.
 
 Com essas duas opções que passei (o Spritz e Readsy), dá para você treinar bastante e, com o tempo, você pode ir pesquisando e testando outros aplicativos como esses.
 

@@ -14,7 +14,7 @@ Então como criar uma meta de leitura que seja possível cumprir todos os dias? 
 
 Ao invés de dizer que vai ler 20 páginas por dia, se comprometa com 5. Se mesmo diminuindo para 5 ainda não estiver conseguindo cumprir, tente 2. E por aí vai.
 
-O tamanho da meta vai variar de pessoa para pessoa. O importante é que seja algo que você consiga cumprir todos os dias. No livro que citei mais acima, o autor conta uma história de uma pessoa que queria começar a fazer caminhadas, e sabe o que ele fazia no começo da criação do hábito? Somente colocava o tênis, pois no caso da caminhada, se preparar para caminhar também é uma barreira. É engraçado e parece absurso, mas funciona.
+O tamanho da meta vai variar de pessoa para pessoa. O importante é que seja algo que você consiga cumprir todos os dias. No livro que citei mais acima (Mini-hábitos), o autor conta uma história de uma pessoa que queria começar a fazer caminhadas, e sabe o que ele fazia no começo da criação do hábito? Somente colocava o tênis, pois no caso da caminhada, se preparar para caminhar também é uma barreira. É engraçado e parece absurso, mas funciona.
 
 Você pode seguir o mesmo raciocínio para o caso de sua meta ser baseada em tempo. Ao invés de prometer dedicar 1 hora por dia, começe com 30 minutos. Se estiver difícil, diminua até que seja uma quantidade que seja impossível de você não cumprir.
 
@@ -24,6 +24,6 @@ A segunda é que, em boa parte das vezes, você vai acabar lendo mais que o prev
 
 Importante! Por mais que esse efeito de exceder sua meta diária aconteça boa parte das vezes, você já deve dar a meta cumprida quando a quantidade inicial for alcançada. Vamos supor que os dois últimos dias você conseguiu ler o dobro da meta e no terceiro dia, apesar de ter cumprido a meta, leu menos. Você não deve ficar triste. Pelo contrário, é importante comemorar sempre que a meta for batida.
 
-A terceira coisa que vai acontecer com os passar dos dias é que você dependerá menos ainda da sua força de vontade para manutenção do hábito. Assim quando começar sentir segurança na execução diária, talvez seja hora de ousar um pouco mais. Não precisa ser muita coisa, vai seguir a mesma ideia: aumentar somente a quantidade que vê como segura para ser cumprida.
+A terceira coisa que vai acontecer com os passar dos dias é que você dependerá menos ainda da sua força de vontade para manutenção do hábito. Assim, quando começar sentir segurança na execução diária, talvez seja hora de ousar um pouco mais. Não precisa ser muita coisa, vai seguir a mesma ideia: aumentar somente a quantidade que vê como segura para ser cumprida.
 
-Assim você vai aumentando até chegar a uma quantidade que te satisfaça. Se sua meta final é ler 1 hora por dia. Vá de pouco em pouco até chegar lá.
+Dessa forma, você vai aumentando até chegar a uma quantidade que te satisfaça. Se sua meta final é ler 1 hora por dia. Vá de pouco em pouco até chegar lá.
