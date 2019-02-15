@@ -63,4 +63,4 @@ Uma dica sobre prática deliberada é você procurar evoluir **um aspecto da hab
 
 Assim, você vai evoluindo sua habilidade por partes (em nosso caso, a habilidade de ler mais rápido e compreender melhor).
 
-Uma dica aqui é que você pode ajustar a intensidade com que usa a prática deliberada, ou seja, ela não precisa "doer" tanto, e você não precisa levar as sessões de treino ao extremo.
+Uma dica aqui é que você pode ajustar a intensidade com que usa a prática deliberada, ou seja, ela não precisa "doer" tanto, e você não precisa levar as sessões de treino ao extremo. Mas neste caso de diminuir a intensidade, acredito que seja interessante pensar também no prazo final. Mencionei que ele era opcional, mas isso é somente quando estiver na intensidade máxima.
