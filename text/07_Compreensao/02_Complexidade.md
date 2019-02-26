@@ -12,7 +12,7 @@ Já passou por isso? Eu, já. Chamo de pesadelo do autodidata. Acredito que a ma
 
 Já que conhecimento prévio é tão importante, quero passar algumas dicas de como você pode conseguir ele de forma mais prática. Agora que você sabe qual a grande causa da complexidade, sempre que estiver diante de um conteúdo muito complexo não pode mais dizer que não consegue aprender. Pode até dizer que não quer, mas não pode dizer que não consegue.
 
-#### Conseguir Conhecimento Prévio
+#### Conseguir conhecimento prévio
 
 É complicado começar a leitura de um livro complexo sem ter um mínimo de conhecimento prévio do mesmo. Quando me encontro nessa situação eu faço, basicamente, duas coisas:
 
@@ -23,10 +23,10 @@ A **pré-leitura** é uma leitura mais rápida que fazemos do próprio livro. Ut
 
 A única diretriz que ela precisa seguir é atender o objetivo de embasar a leitura principal. Não existem regras quanto a como o processo dela deve ser, mas existe uma técnica que pode ajudar. É a técnica em que focamos nos pontos de maior probabilidade de encontramos informação relevante no livro. Primeiro você lê capa, contracapa e analisa o índice. Depois você vai passar pelas páginas do livro prestando atenção nos seguintes pontos: títulos dos capítulos e tópicos, palavras em destaque (negrito ou itálico), listas, imagens e gráficos. Dependendo da profundidade da sua pré-leitura, pode considerar a leitura do primeiro e último parágrafo de cada tópico. Caso precise de ainda mais detalhes, pode ler a primeira frase de cada parágrafo. Lembre-se, como o processo é livre, é interessante que, qualquer coisa que chame sua atenção, além dos pontos descritos anteriormente, entre na sua pré-leitura.
 
-Quanto à leitura de **material introdutório** (ou material de base), é simplesmente você procurar um material mais básico antes de começar a leitura do livro principal. Você pode tanto ler um outro livro, quanto pode procurar por artigos na internet sobre o assunto que deseja. Se conseguir encontrar o resumo do próprio livro que está pretendendo ler, será bacana. O interessante é que esses conteúdos sejam mais básicos (introdutórios), mas caso só se depare com materiais de mesmo nível e pontos de vista diferentes, também pode ser interessante.
+Quanto à leitura de **material introdutório** (ou material de base), é simplesmente você procurar um material mais básico antes de começar a leitura do livro principal. Você pode tanto ler um outro livro, quanto pode procurar por artigos na internet sobre o assunto que deseja. Se conseguir encontrar o resumo do próprio livro que está pretendendo ler, será bacana. O legal é que esses conteúdos sejam mais básicos (introdutórios), mas caso só se depare com materiais de mesmo nível e pontos de vista diferentes, também pode ser interessante.
 
-Podemos ainda fazer as duas coisas. Pode fazer uma pré-leitura e procurar por materiais de base. Algumas vezes, justamente por fazer a pré-leitura, vai identificar que precisa de algum material de base.
+Podemos ainda fazer as duas coisas. Pode-se fazer uma pré-leitura e procurar por materiais de base. Algumas vezes, justamente por fazer a pré-leitura, vai identificar que precisa de algum material de base.
 
-Fazendo uma dessas coisas (pré-leitura, leitura de material) ou as duas, você vai conseguir começar a leitura do livro principal com uma preparação bem melhor. Assim, você acaba economizando o tempo de estudo, pois vão diminuir muito as chances de não entender e se perder durante a leitura.
+Fazendo uma dessas coisas (pré-leitura, material de base) ou as duas, você vai conseguir começar a leitura do livro principal com uma preparação bem melhor. Assim, você acaba economizando o tempo de estudo, pois vão diminuir muito as chances de não entender e se perder durante a leitura.
 
-A moral da história é que parte desse tempo em que ficaria vagando na leitura por não entender você usa para adquirir o conhecimento de base, e a outra parte é o que vai economizar por ter tido a atitude inteligente de buscar conhecimento prévio.
+A moral da história é que parte desse tempo em que ficaria vagando na leitura por não entender, você usa para adquirir o conhecimento de base, e a outra parte é o que vai economizar por ter tido a atitude inteligente de buscar conhecimento prévio.
