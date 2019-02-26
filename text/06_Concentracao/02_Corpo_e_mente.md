@@ -21,7 +21,7 @@ A segunda questão é a **alimentação**. Você é aquilo que você come. É im
 
 De novo, não quero passar recomendações. Não vou falar sobre o que você deve ou não comer, mas acredito que você já deve ter uma boa noção daquilo que é ou não minimamente saudável. Caso não saiba, é importante conversar com um nutricionista e procurar saber melhor sobre o assunto.
 
-Outra coisa são os **exercícios**. Eles trazem benefícios para a saúde e ajudam a manter seu corpo saudável, para que você consega manter a concentração na leitura. É como se eles expandissem a nossa capacidade de armazenar energia.
+Outra coisa são os **exercícios**. Eles trazem benefícios para a saúde e ajudam a manter seu corpo saudável, para que você consiga manter a concentração na leitura. É como se eles expandissem a nossa capacidade de armazenar energia.
 
 Não precisa fazer nada muito difícil. Pode começar com 5 minutos de exercício em casa mesmo. Exercícios simples. Já vai ajudar consideravelmente. Com o tempo você pode ir aumentando a quantidade, mas não precisa de pressa e nem precisa fazer tanto. Eu mesmo faço 15 minutos por dia. Já dá até para trabalhar os músculos do corpo.
 
