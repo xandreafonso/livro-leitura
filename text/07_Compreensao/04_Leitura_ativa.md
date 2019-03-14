@@ -2,36 +2,44 @@
 
 Leitura ativa é tudo o que te faz pensar mais profundamente sobre o conteúdo. É uma leitura com engajamento. Quase que uma interação entre você e o texto. O grande benefício é que isso te ajuda a ter uma compreensão mais profunda sobre o conteúdo. No final das contas, fica mais fácil memorizar também.
 
+O grande objetivo da leitura ativa é organizar o conteúdo em nossa mente. Esse é um dos pontos mais importantes, pois conseguindo organizar o conteúdo, quer dizer que você o entendeu. E essa organização começa quando você **conecta os conceitos** aprendidos durante a leitura, que é quando você se pergunta (e responde) coisas como "*O que essa parte do texto tem a ver com aquela outra?*", ou ainda "*O que essa parte tem a ver com o livro como um todo?*". 
+
+Em paralelo, ou, quem sabe, depois que já tiver boa parte do conteúdo conectado, você pode buscar **fazer associações** entre o que está lendo e assuntos que já domina (ou simplesmente assuntos que já conhece). Esse tipo de exercício te permite abstrair os conceitos mais importantes daquilo que está aprendendo para levá-los para uma outra área do conhecimento. Um exemplo de que já consegue fazer isso é quando você começa a ser capaz de criar analogias.
+
+Isso de conectar e associar vai permitir a você, com muito mais facilidade, **categorizar** e **ordenar** o conteúdo. Esse tipo de coisa ajuda a compactar a informação que está indo para sua mente, e também torna ela mais explícita para hora em que precisar.
+
 Existem várias formas de fazer uma leitura ativa. Para ficar mais claro, vamos analisar as principais:
 
 * Criar definição;
 * Questionamento;
 * 5W2H;
-* Reflexão;
+* Hipóteses;
+* Sintetizar as partes;
 * Resumir;
-* Organizar;
 * Criatividade;
 * Combinação.
 
 #### Criar definição
 
-É comum começarmos a estudar sobre algo e não termos a definição do mesmo. Uma das primeiras coisas que eu gosto de fazer quando começo a estudar sobre algo é definir o objeto de estudo, geralmente com uma frase que comece no estilo "*[OBJETO DE ESTUDO] é ...*". Mais ou menos como eu comecei esse tópico, onde o objeto de estudo é a leitura ativa:
+É comum começarmos a ler sobre algo e não termos a definição do mesmo. Uma das primeiras coisas que aconselho que faça quando iniciar uma leitura é definir o objeto de estudo, geralmente, com uma frase que comece no estilo "*[OBJETO DE ESTUDO] é …*". Mais ou menos como eu comecei esse tópico, onde o objeto de estudo é a leitura ativa:
 
 > *Leitura ativa é tudo o que te faz pensar mais profundamente sobre o conteúdo.*
 
 Buscar essa definição é um excelente primeiro passo para quem deseja uma compreensão mais profunda sobre o tema. Sempre que estiver começando a ler sobre um novo assunto, procure se perguntar sobre a definição do mesmo. Muitas vezes, o próprio texto vai ter a definição, mas caso não possua ou não esteja clara, é importante buscá-la a partir de outras fontes. 
 
+Depois que já tiver se aprofundado mais no assunto, é interessante também criar uma **definição própria** do objeto de estudo. Até porque, algumas vezes, as definições dos materiais que dispomos não serão muito boas. Uma frase que contém uma boa definição vai servir de gatilho para lembrar facilmente daquilo que for mais importante do assunto estudado.
+
 #### Questionamento
 
 Questionamentos são excelentes para nos deixar mais engajados com a leitura. São perguntas que a gente faz o tempo todo para o autor. A partir do momento em que nosso cérebro fica consciente e tem clareza das questões que são importantes para nós, ele terá mais facilidade para identificar os pontos de resposta para aquilo que buscamos, que serão justamente os pontos mais importantes do texto.
 
-Para fazer bons questionamentos é legal que você tenha um objetivo claro de leitura. Para descobrir esse objetivo, basta responder "*Por que eu estou lendo?*". Uma outra questão que também é importante de se fazer antes de começar é "*Especificamente, sobre o que o livro fala?*". Essas duas respostas já vão dar a direção correta para a sua leitura e, portanto, ajudarão a criar outros bons questionamentos.
+Para fazer bons questionamentos é legal que você tenha um objetivo claro de leitura. Para descobrir esse objetivo, basta responder "*Por que eu estou lendo?*". Uma outra questão que também é importante de se fazer antes de começar é "*Sobre o que o livro fala?*". Seja específico nas suas respostas. Elas já vão dar a direção correta para a sua leitura e, portanto, ajudarão a criar outros bons questionamentos que continuarão lhe guiando.
 
-Não existe uma regra para como criamos esses questionamentos. Pode ser qualquer tipo de questão. O importante é que elas sejam guiadas pelo seu objetivo com a leitura. Quanto mais no início da leitura estamos, mais genéricas as perguntas são. Elas vão ficando mais específicas à medida que avançamos.
+Não existe uma regra para como criamos esses questionamentos. Pode ser qualquer tipo de questão. O importante é que elas sejam influenciadas pelo seu objetivo com a leitura. Quanto mais no início da leitura estamos, mais genéricas as perguntas são. Elas vão ficando mais específicas à medida que avançamos.
 
-Como foi mencionado, não existe regra para criar as questões, mas quero passar duas que podem guiar você passo-a-passo na sua caminhada pelo livro. A cada trecho de texto que ler você pode se perguntar "*O que o autor disse aqui?*", e também "*Como isso se encaixa com a parte anterior?*".
+Como foi mencionado, não existe regra para criar as questões, mas quero passar duas que podem guiar você passo-a-passo na sua caminhada pelo livro. A cada trecho de texto que ler você pode se perguntar "*O que o autor disse aqui?*", e também "*Como isso se encaixa com a parte (frase, parágrafo, tópico) anterior?*".
 
-Uma outra coisa é você simplesmente rememorar cada trecho (que poderia ser um parágrafo ou até um tópico inteiro) que acabou de ler. Se for rememorar por parágrafo, sempre que terminar um, se pergunte "*O que foi que eu acabei de ler no parágrafo anterior?*". É uma ideia bem parecida com as duas questões que acabei de passar para você, mas por ser um outro ponto de vista, achei legal mencionar aqui.
+Uma outra coisa é você simplesmente rememorar cada trecho (que poderia ser um parágrafo ou até um tópico inteiro) que acabou de ler. Sempre que terminar um, se pergunte "*O que foi que eu acabei de ler no parágrafo anterior?*". É algo simples, pode ser feito a todo momento e evita passar por longos trechos sem notar que não compreendeu coisa alguma.
 
 #### 5W2H
 
@@ -67,33 +75,37 @@ Repare três coisas. A primeira é que o único padrão que temos é começar co
 
 Como dica extra, essa técnica pode ser usada também para que você crie uma redação, artigo ou, quem sabe, até um livro sobre qualquer tema. Basta ir criando as perguntas e, claro, ir respondendo. No final, vai perceber que pode juntar as respostas de cada pergunta para embasar seu texto do início ao fim.
 
-#### Reflexão
+#### Hipóteses
 
-Reflexão neste nosso contexto é avaliar diferentes **hipóteses** que você mesmo vai criar. Hipótese é uma forma de expressar a possibilidade de algo acontecer (seja isso positivo ou negativo). Coisas que você vai afirmar e refletir sobre a possibilidade.
+Hipótese é uma forma de expressar a possibilidade de algo acontecer (seja isso positivo ou negativo). São coisas que você vai afirmar, refletir sobre a possibilidade e buscar validá-la durante a leitura. Acredito que podemos pensar nelas também como perguntas que estão em modo afirmativo.
 
-Acredito que podemos pensar nelas também como perguntas que estão em modo afirmativo.
+Basicamente, você vai fazer suposições levando em consideração seu conhecimento prévio, as informações adquiridas durante a leitura e o seu pensamento lógico ou imaginação. A diferença com relação a uma simples suposição é que a hipótese tem o intuito de ser verificada. Em nosso caso, verificada ao longo da leitura.
 
-Ter uma visão mais **cética** para alguns pontos do livro pode ajudar a criar algumas hipóteses. Claro, não é para sair duvidando de tudo que o autor fala. Mas um olhar desconfiado é também uma forma de refletir.
+Ter uma visão mais cética para alguns pontos do livro pode ajudar a criar algumas hipóteses. Claro, não é para sair duvidando de tudo que o autor fala. Mas um olhar desconfiado é também uma forma de hipotetizar e refletir.
 
-Uma outra boa dica para usar como ferramenta de reflexão é buscar **parafrasear** algo importante que o autor disse, ou seja, definir os pontos-chave com as suas próprias palavras. Dependendo do quanto você já entendeu do assunto, dar uma definição completamente sua pode ser bem difícil, mas é legal ir tentando, pois, aos poucos, claro, vai ficando mais simples.
+#### Sintetize as partes
 
-Depois que já tiver se aprofundado mais no assunto, é interessante também criar uma **definição própria** do objeto de estudo. Até porque, algumas vezes, as definições dos materiais que dispomos não serão muito boas. Uma frase que contém uma boa definição vai servir de gatilho para lembrar facilmente daquilo que for mais importante do assunto estudado.
+Sintetizar, nesse nosso contexto, significa você extrair o que é essencialmente importante daquilo que estiver lendo. Não precisa que sejam resumos, mas sim, sínteses de cada trecho que for lendo. Três formas excelentes que você pode usar para isso são anotando, grifando ou parafraseando o que está sendo dito no texto.
+
+Faça suas próprias **anotações** à medida que for avançando na leitura. Recomendo que, a cada tópico do livro, escreva uma ou duas frases que os síntese. Você pode escrever no próprio livro, em post-its (pequenos pedaços de papel coloridos e adesivos), em um papel separado ou em algum aplicativo de celular.
+
+O que mais recomendo é que escreva no próprio livro, pois é o meio mais prático. Logo depois de ler um tópico, eu costumo escrever, ao lado do título do mesmo, a conclusão que tirei dele. Os post-its são legais para quem não pode ou não quer escrever no livro. Obviamente, a ideia é escrever nos mesmos e colá-los ao lado do título de cada tópico. O bacana deles é que dá para trabalhar com diferentes cores dando significado para cada uma delas. Anotações que ficarão separadas do livro (em cadernos, ou aplicativos de celular) serão mais trabalhosas porque é preciso anotar também a relação entre sua anotação e o tópico ao qual ele se refere.
+
+É um hábito excelente, pois o dia em que precisar voltar ao mesmo trecho de texto para uma consulta ou revisão, vai só bater o olho naquilo que escreveu e já se lembrará de tudo, ou quase tudo, que precisa. O legal disso é que, para sintetizar, a gente é naturalmente forçado a pensar mais profundamente sobre o que foi dito pelo autor para escolher o que é realmente importante para nós.
+
+Dei ênfase a possibilidade de fazer uma síntese por tópicos, mas dependendo do grau de profundidade com que deseja compreender e memorizar, pode ir além e fazer pequenas anotações para sintetizar cada parágrafo lido.
+
+Uma coisa que pode ajudar bastante, se usado da maneira correta, é o **grifo**. Muitos são contra ele, mas afirmo que funciona e tem um custo benefício excelente. A única coisa que precisa fazer para funcionar bem é ser seletivo quanto ao que você grifa. Não pode sair grifando tudo e qualquer coisa. Eu faço o máximo para grifar somente algumas palavras, as mais importantes do parágrafo. É muito difícil acontecer de precisar grifar um parágrafo inteiro, mas frases inteiras, grifo com certa frequência. Mas sempre selecionando bem o que será grifado.
+
+Um grifo criterioso é o mínimo que você deve fazer durante uma leitura. Se puder juntar com as anotações, o poder de compreensão e memorização aumenta consideravelmente.
+
+Buscar **parafrasear** algo importante que o autor disse (os pontos-chave), ou seja, definir com as suas próprias palavras, também é uma boa forma de sintetizar. Dependendo do quanto você já entendeu do assunto, dar uma definição completamente sua pode ser bem difícil, mas é legal ir tentando, pois, aos poucos, vai ficando mais simples. 
 
 #### Resumir
 
-É interessante também criar seus próprios resumos. Eles ajudam a complementar o quebra-cabeças do conteúdo. Melhoram muito a nossa compreensão sobre o tema. Pode começar criando **resumos simples**, explanando somente os tópicos principais.
+É interessante também criar seus próprios resumos. Eles ajudam a complementar o quebra-cabeças do conteúdo. Melhoram muito a nossa compreensão sobre o tema. Sintetizando, você tira o que é mais importante de cada parte (capítulo, tópico, parágrafo, etc.), fazendo o resumo você conecta às sínteses que fez.
 
-Pode também fazer **anotações no próprio livro**, à medida que for avançando na leitura. É um hábito excelente, pois o dia em que precisar voltar ao mesmo trecho de texto para uma consulta ou revisão, vai só bater o olho naquilo que escreveu e já se lembrará de tudo, ou quase tudo, que precisa. O legal disso é que como o livro não tem muito espaço, a gente é naturalmente forçado a pensar mais profundamente sobre o que foi dito pelo autor para escolher boas palavras para usar.
-
-Uma coisa que pode ajudar bastante, se usado da maneira correta, é o **grifo**. Muitos são contra ele, mas afirmo que funciona e tem um custo benefício excelente. A única coisa que precisa fazer para funcionar é ser bem seletivo quanto ao que você grifa. Não pode sair grifando tudo e qualquer coisa. Eu faço o máximo para grifar somente algumas palavras, as mais importantes do parágrafo. É muito difícil acontecer de precisar grifar um parágrafo inteiro, mas frases inteiras eu grifo com certa frequência. Sempre selecionando bem o que será grifado.
-
-#### Organizar
-
-Esse é um dos pontos mais importantes de uma leitura ativa, pois conseguindo organizar o conteúdo em sua mente, quer dizer que você o entendeu. E essa organização começa quando você **conecta os conceitos** aprendidos durante a leitura, que é quando você se pergunta (e responde) coisas como "*O que essa parte do texto tem a ver com aquela outra?*", ou ainda "*O que essa parte tem a ver com o livro como um todo?*". 
-
-Em paralelo, ou, quem sabe, depois que já tiver boa parte do conteúdo conectado, você pode buscar **fazer associações** entre o que está lendo e assuntos que já domina (ou simplesmente assuntos que já conhece). Esse tipo de exercício te permite abstrair os conceitos mais importantes daquilo que está aprendendo e levar para uma outra área do conhecimento. Um exemplo de que está sendo capaz de fazer isso é quando você começa a ser capaz de criar analogias.
-
-Isso de conectar e associar vai permitir a você, com muito mais facilidade, **categorizar** e **ordenar** o conteúdo. Esse tipo de coisa ajuda a compactar a informação que está indo para sua mente, e também torna ela mais explícita para hora em que precisar.
+A tentativa de conectar as partes do conteúdo nos revela possíveis fraquezas da nossa compreensão. Isso porque entender cada parte separadamente não é o mesmo que entender o todo. Para entender o conteúdo por completo é preciso que se compreenda a relação de cada parte. Criar um resumo é uma boa forma de se descobrir aquilo que não está claro para assim buscar entender o que é necessário para que a compreensão seja plena em nossa mente.
 
 #### Criatividade
 

@@ -27,3 +27,5 @@ Importante! Por mais que esse efeito de exceder sua meta diária aconteça boa p
 A terceira coisa que vai acontecer com o passar dos dias é que você dependerá menos ainda da sua força de vontade para a manutenção do hábito. Assim, quando começar a sentir segurança na execução diária, talvez seja hora de ousar um pouco mais. Não precisa ser muita coisa, vai seguir a mesma ideia: aumentar somente a quantidade que vê como segura para ser cumprida.
 
 Dessa forma, você vai aumentando até chegar a uma quantidade que te satisfaça. Se sua meta final é ler 1 hora por dia, vá de pouco em pouco até chegar lá.
+
+Algo que pode auxiliar com a estratégia dos hábitos atômicos é anexá-lo antes ou depois de uma atividade rotineira como dormir, tomar café da manhã, trabalho, exercícios, banho, etc.. Assim ficará mais fácil, pois a atividade rotineira vai ajudar a despertar a lembrança de que chegou o momento da leitura.

@@ -1,4 +1,4 @@
-### Local de leitura
+### Local de Leitura
 
 Quando a gente usa momentos como aqueles em que estamos em deslocamento para o trabalho dentro do ônibus, temos que nos adaptar ao ambiente. Por outro lado, quando estamos em casa e não temos um canto nosso de leitura, a falta desse espaço pode funcionar como uma barreira. Já tiveram vários momentos em que me pegava procurando conseguir um mínimo de conforto para fazer minhas leituras, e, em muitas das vezes, perdia um tempo considerável. Decidia ler por 15 minutos e ficava 5 só me ajeitando para começar. Às vezes, ficava até um pouquinho irritado por não conseguir me ajeitar direito onde queria. Até que percebi que não precisava disso.
 

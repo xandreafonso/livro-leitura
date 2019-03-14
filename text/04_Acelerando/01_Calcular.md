@@ -1,4 +1,4 @@
-### Calculando a velocidade
+### Calculando a Velocidade
 
 Agora, vou te ensinar a calcular a sua velocidade de leitura. Isso te permite acompanhar o seu progresso, saber qual técnica está trazendo mais resultados, e como você performa na leitura dependendo do seu estado (de ânimo, cansado, doente, etc.). Vai também mostrar o quanto está evoluindo, e te motivar a chegar mais longe.
 
