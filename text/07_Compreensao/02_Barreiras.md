@@ -12,7 +12,7 @@ São elas:
 
 #### Vocabulário pobre e desconhecimento de termos técnicos
 
-Acredito que questões de vocabulário e termos técnicos também entrem na categoria de conhecimento prévio, que você pode ter ou não. Mas acredito que essa seja uma subcategoria que merece um destaque.
+Acredito que questões de vocabulário e termos técnicos também entrem na categoria de conhecimento de base, que você pode ter ou não. Mas acredito que essa seja uma subcategoria que merece um destaque.
 
 Vamos pensar nos casos de você estar lidando com um texto complexo que possui muitas palavras desconhecidas, ou termos técnicos cujos quais você ainda não conhece o significado. Quando eu digo palavra desconhecida, falo simplesmente daquelas que não se conhece o significado do dicionário. Já os termos técnicos, são aqueles formados por palavras que até se conhece o significado, mas ainda não se entende exatamente o que ele quer dizer no contexto do assunto sobre o qual o texto trata.
 
@@ -44,4 +44,4 @@ Até é possível aprender alguma coisa se for um texto simples, mas não recome
 
 O nível da didática do material é o que diz se o mesmo é bom ou ruim dentro daquilo que ele se propõe.
 
-Se você estiver se esforçando e ainda assim não estiver compreendendo o livro, então pode ser que a didática do material seja ruim. Nesse caso, o jeito é procurar por materiais com abordagens diferentes sobre o mesmo conteúdo ou, pelo menos, materiais complementares.
+Se você estiver se esforçando e ainda assim não estiver compreendendo o livro, então pode ser que a didática do material seja ruim. Nesse caso, o jeito é procurar por materiais, sobre o mesmo tema, mas com abordagens diferentes. Pode buscar por materiais de autores diferentes ou materiais em formatos diferentes (artigos em blogs, estudos científicos, vídeos, aulas, palestras).
